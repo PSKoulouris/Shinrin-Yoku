@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { ApiPlants } from './api-plants/api-plants';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  imports: [RouterOutlet, ApiPlants],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })

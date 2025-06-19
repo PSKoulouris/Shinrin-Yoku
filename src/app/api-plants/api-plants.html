@@ -1,0 +1,15 @@
+<h1>API PLANT COMPONENT</h1>
+
+
+<section>
+    @for(item of forecastList; track item.date){
+        
+    <article>
+        <p class = "title">{{item.date}}</p>
+        <p>Temperture: {{item.tempMin}} - {{item.tempMax}} °C</p>
+        <p>Description: {{item.description}}</p>
+        <img [src]="'https://cdn.weatherbit.io/static/img/icons/' + item.logo + '.png'"/>
+    </article>
+    }
+</section>
+-->
