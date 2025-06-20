@@ -6,9 +6,9 @@
 <article>
   <img [src]="plant.image" alt="Plant image" />
   <!-- Plant name as link to detail page -->
-  <h2>
+  <h3>
     <a [routerLink]="['/detail', plant.id]">{{ plant.common_name }}</a>
-  </h2>
+  </h3>
   <p>ID: {{ plant.id }}</p>
 </article>
 

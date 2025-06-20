@@ -1,8 +1,15 @@
 <div *ngIf="plantData">
-    <h2>{{ plantData.common_name }}</h2>
-    <img [src]="plantData.default_image?.regular_url" alt="{{ plantData.common_name }}" />
+    <h3>{{ plantData.common_name }}</h3>
+    <img [src]="plantData.default_image?.medium_url" alt="{{ plantData.common_name }}" />
     <p><strong>Scientific Name:</strong> {{ plantData.scientific_name?.join(', ') }}</p>
     <p><strong>Family:</strong> {{ plantData.family }}</p>
     <p><strong>Description:</strong> {{ plantData.description }}</p>
+    <p><strong>Hardiness (Min - Max):</strong> {{ plantData.hardiness.min }} - {{ plantData.hardiness.max }}</p>
+    <p><strong>Light Requirements:</strong> {{ plantData.sunlight }}</p>
+    <p><strong>Water Requirements:</strong> {{ plantData.watering }}</p>
+    <p><strong>Prunning:</strong> {{ plantData.pruning_month }}</p>
+    <p><strong>Growth rate:</strong> {{ plantData.growth_rate }}</p>
+    <p><strong>Poisonous to human:</strong>  {{ plantData.poisonous_to_humans ? 'Poisonous to human' : 'Not poisonous to human' }}</p>
+    <p><strong>Poisonous to animals:</strong> {{ plantData.poisonous_to_animals ? 'Poisonous to animals' : 'Not poisonous to animals' }}</p>
 </div>
 
