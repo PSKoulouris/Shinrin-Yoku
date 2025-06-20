@@ -1,0 +1,3642 @@
+{
+  "data": [
+    {
+      "id": 425,
+      "common_name": "flowering-maple",
+      "scientific_name": [
+        "Abutilon hybridum"
+      ],
+      "other_name": [],
+      "family": "Malvaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "hybridum",
+      "genus": "Abutilon",
+      "origin": [
+        "Garden origin"
+      ],
+      "type": "Broadleaf evergreen",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Root Cutting",
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "9",
+        "max": "10"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=425&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=425&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flower",
+          "color": [
+            "pink",
+            "white",
+            "white-yellow"
+          ]
+        },
+        {
+          "part": "pistils",
+          "color": [
+            "yellow"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=425&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": true,
+      "invasive": false,
+      "tropical": true,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Flowering Maple (Abutilon hybridum) is an amazing plant species for its hardiness, its unique flowers, and its ability to brighten up any landscape. It's a very low maintenance plant that flourishes in full sun and well drained soils. Its flowers are very striking and come in many different colors - the most common being white and yellow, with a contrasting dark center. This plant is ideal for those looking to add some vibrant color to their gardens without a lot of work. It can easily grow up to six feet and can even tolerate partial shade. The Flowering Maple is definitely an attention-grabber and will be sure to make any garden stand out.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/425_abutilon_hybridum/og/24527654869_ac712f58c7_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/425_abutilon_hybridum/regular/24527654869_ac712f58c7_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/425_abutilon_hybridum/medium/24527654869_ac712f58c7_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/425_abutilon_hybridum/small/24527654869_ac712f58c7_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/425_abutilon_hybridum/thumbnail/24527654869_ac712f58c7_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 426,
+      "common_name": "flowering-maple",
+      "scientific_name": [
+        "Abutilon hybridum 'Bella Red'"
+      ],
+      "other_name": [],
+      "family": "Malvaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Bella Red",
+      "variety": null,
+      "species_epithet": "hybridum",
+      "genus": "Abutilon",
+      "origin": [
+        "Brazil"
+      ],
+      "type": "Broadleaf evergreen",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Root Cutting",
+        "Air Layering Propagation",
+        "Grafting Propagation",
+        "Division"
+      ],
+      "hardiness": {
+        "min": "9",
+        "max": "10"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=426&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=426&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "August",
+        "February",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=426&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Flowering-maple (Abutilon hybridum 'Bella Red') is a magnificent plant species with its beautiful red bell-shaped flowers and bright green, maple-like foliage. Growing to a manageable height of around 1-3 feet (30-90 cm), this drought-tolerant, self-sowing annual is perfect for adding color to any garden. Its blooms appear in an array of vibrant colors, from magenta to yellow, that light up any outdoor setting. Its gorgeous flowers also attract butterflies and hummingbirds, making it a great choice for a wildlife garden. Combined with its hardiness, this species certainly is a magnificent addition to any garden.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/426_abutilon_hybridum_bella_red/og/abutilon-mallow-flower-red.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/426_abutilon_hybridum_bella_red/regular/abutilon-mallow-flower-red.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/426_abutilon_hybridum_bella_red/medium/abutilon-mallow-flower-red.jpg",
+        "small_url": "https://perenual.com/storage/species_image/426_abutilon_hybridum_bella_red/small/abutilon-mallow-flower-red.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/426_abutilon_hybridum_bella_red/thumbnail/abutilon-mallow-flower-red.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 427,
+      "common_name": "flowering-maple",
+      "scientific_name": [
+        "Abutilon 'Moonchimes'"
+      ],
+      "other_name": [],
+      "family": "Malvaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Moonchimes",
+      "variety": null,
+      "species_epithet": "'Moonchimes'",
+      "genus": "Abutilon",
+      "origin": [
+        "Brazil"
+      ],
+      "type": "Broadleaf evergreen",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Root Cutting",
+        "Air Layering Propagation",
+        "Division",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "9",
+        "max": "10"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=427&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=427&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April",
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=427&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": true,
+      "indoor": true,
+      "care_level": "Moderate",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The flowering-maple (Abutilon 'Moonchimes') is an amazing plant species with unique flowers for any garden. It produces purple, bell-shaped flowers with white and yellow highlights that simply mesmerize in the summer sun. The leaves are large and maple-shaped, which adds a nice contrast with the bell-shaped flowers. It's a great addition to any garden due to its beauty, low-maintenance needs, andzone 6 hardiness. Furthermore, it grows a well in both full sun or partial shade, making it an ideal choice for a variety of garden spaces. Get your own flowering-maple today and enjoy its special beauty in your own backyard.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/427_abutilon_moonchimes/og/Abutilon_x_hybridum_27Moonchimes27_Flower_2800px.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/427_abutilon_moonchimes/regular/Abutilon_x_hybridum_27Moonchimes27_Flower_2800px.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/427_abutilon_moonchimes/medium/Abutilon_x_hybridum_27Moonchimes27_Flower_2800px.jpg",
+        "small_url": "https://perenual.com/storage/species_image/427_abutilon_moonchimes/small/Abutilon_x_hybridum_27Moonchimes27_Flower_2800px.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/427_abutilon_moonchimes/thumbnail/Abutilon_x_hybridum_27Moonchimes27_Flower_2800px.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 428,
+      "common_name": "flowering-maple",
+      "scientific_name": [
+        "Abutilon pictum 'Gold Dust'"
+      ],
+      "other_name": [],
+      "family": "Malvaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Gold Dust",
+      "variety": null,
+      "species_epithet": "pictum",
+      "genus": "Abutilon",
+      "origin": [
+        "Brazil"
+      ],
+      "type": "Broadleaf evergreen",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 10,
+          "max_value": 15,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [
+        "Hummingbirds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Stem Propagation",
+        "Root Cutting",
+        "Air Layering Propagation",
+        "Division",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "9",
+        "max": "12"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=428&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=428&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=428&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": true,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The 'Gold Dust' variety of flowering-maple is an amazing example of a unique, striking ornamental. The rounded green leaves are generously dusted with gold highlights, making the foliage a source of interest in its own right. In summer, flowers resembling small orange bells appear in abundance, adding to the landscape. Unlike many flowering plants, this variety of flowering-maple is forgiving of colder climes and can be grown in zone 7, making it ideal for a variety of landscaping settings. This hardy species is easily maintained with a simple pruning and can usually be seen showing off its stunning foliage and flowers for several years.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/428_abutilon_pictum_gold_dust/og/Redvein_Abutilon.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/428_abutilon_pictum_gold_dust/regular/Redvein_Abutilon.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/428_abutilon_pictum_gold_dust/medium/Redvein_Abutilon.jpg",
+        "small_url": "https://perenual.com/storage/species_image/428_abutilon_pictum_gold_dust/small/Redvein_Abutilon.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/428_abutilon_pictum_gold_dust/thumbnail/Redvein_Abutilon.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 434,
+      "common_name": "Jacob's coat",
+      "scientific_name": [
+        "Acalypha wilkesiana"
+      ],
+      "other_name": [],
+      "family": "Euphorbiaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "wilkesiana",
+      "genus": "Acalypha",
+      "origin": [
+        "Pacific Islands"
+      ],
+      "type": "Broadleaf evergreen",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Air Layering Propagation",
+        "Division"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=434&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=434&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"3-4\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "yellow-orange-red-pink"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=434&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Jacob's Coat (Acalypha wilkesiana) is an amazing foliage plant with colorful leaves that will make a bold statement in your garden. Its leaves emerge in the spring with attractive shades of green and red, and turn pink, purple, yellow, and even silver as the season progresses. The plant itself is easy to care for, requiring minimal watering and very little pruning. In addition, it is a hardy plant and is nearly immune to pests and disease problems. If you want to make your garden stand out, consider planting a Jacob's Coat! Its multi-colored leaves will be sure to garner attention and admiration.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/434_acalypha_wilkesiana/og/24945289366_5035e5d0a9_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/434_acalypha_wilkesiana/regular/24945289366_5035e5d0a9_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/434_acalypha_wilkesiana/medium/24945289366_5035e5d0a9_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/434_acalypha_wilkesiana/small/24945289366_5035e5d0a9_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/434_acalypha_wilkesiana/thumbnail/24945289366_5035e5d0a9_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 502,
+      "common_name": "hot water plant",
+      "scientific_name": [
+        "Achimenes (group)"
+      ],
+      "other_name": [],
+      "family": "Gesneriaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "(group)",
+      "genus": "Achimenes",
+      "origin": [
+        "Mexico",
+        "Guatemala",
+        "Honduras",
+        "Costa Rica",
+        "Panama",
+        "Colombia",
+        "Venezuela",
+        "Ecuador",
+        "Peru"
+      ],
+      "type": "Herbs",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Seed Propagation",
+        "Tissue Culture"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=502&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=502&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": null,
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part shade"
+      ],
+      "pruning_month": [
+        "May",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=502&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Hot Water Plant is an awesome choice of species for any avid gardener. It is a perennial plant, with unique and exotic blooms in a variety of shapes and colors, that can be grown indoors or outdoors. These plants are incredibly adaptive, thriving in all sorts of climates, from warm rainforest environments to cool temperate locations. In order to grow them, simply fill any container with water, place the root-ball into it, and enjoy the beautiful flowers that emerge for months. Hot Water Plants are also great for propagating and are incredibly low-maintenance, surviving both drought and short-term flooding easily. A truly amazing species that anyone can grow.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 540,
+      "common_name": "desert rose",
+      "scientific_name": [
+        "Adenium obesum"
+      ],
+      "other_name": [],
+      "family": "Apocynaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "obesum",
+      "genus": "Adenium",
+      "origin": [
+        "Tropical Africa",
+        "Arabian Peninsula"
+      ],
+      "type": "Broadleaf evergreen",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 3,
+          "max_value": 9,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [
+        "Hummingbirds",
+        " Butterflies"
+      ],
+      "propagation": [
+        "Grafting Propagation",
+        "Cutting",
+        "Seed Propagation",
+        "Air Layering Propagation",
+        "Division"
+      ],
+      "hardiness": {
+        "min": "11",
+        "max": "12"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=540&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=540&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flowers",
+          "color": [
+            "pink-white"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "flower",
+          "color": [
+            "pink-white"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "gray"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "February"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=540&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": true,
+      "invasive": false,
+      "tropical": true,
+      "indoor": true,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The desert rose is an amazing plant species that adds vibrant, flowering color to any space. This drought-tolerant succulent requires minimal water and a sunny, dry environment, making it ideal for most desert and dry climate gardens. Its showy blooms range in color from hot pink and vibrant red to stunning white and yellow shades. The striking ombre of the adenium obesum's swollen base and graceful, slender stems make it a true stunner. It's also highly toxin resistant and can handle a wide range of temperatures and environmental conditions. No wonder it's quickly becoming one of the most popular flowers around!",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/540_adenium_obesum/og/9244335137_6d662ed77c_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/540_adenium_obesum/regular/9244335137_6d662ed77c_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/540_adenium_obesum/medium/9244335137_6d662ed77c_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/540_adenium_obesum/small/9244335137_6d662ed77c_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/540_adenium_obesum/thumbnail/9244335137_6d662ed77c_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 543,
+      "common_name": "maidenhair fern",
+      "scientific_name": [
+        "Adiantum capillus-veneris"
+      ],
+      "other_name": [
+        "Southern Maidenhair",
+        "Venus' Hair Fern",
+        "Venus' Hair Fern"
+      ],
+      "family": "Pteridaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "capillus-veneris",
+      "genus": "Adiantum",
+      "origin": [
+        "Temperate and tropical regions worldwide"
+      ],
+      "type": "Fern",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.75,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Spore Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "8"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=543&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=543&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=543&key=sk-Y3iq685405063afde11077",
+      "soil": [
+        "Clay",
+        " Sand"
+      ],
+      "growth_rate": null,
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": true,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The maidenhair fern (Adiantum capillus-veneris) is a beautiful and unique species of fern with feathery, wispy fronds that give an air of delicacy and grace to any space. Its elegant fronds are complemented by lovely fan-like foliage made up of numerous small leaflets, giving it an exquisite lacy appearance that adds beauty to any garden. Its hardy nature also makes it a great choice for those looking for something that can tolerate a variety of temperatures, thriving in colder climates despite its tropical look. It's an amazing plant species that's sure to be a stunning addition to any outdoor area.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/543_adiantum_capillus-veneris/og/49636882698_cb4fa4c685_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/543_adiantum_capillus-veneris/regular/49636882698_cb4fa4c685_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/543_adiantum_capillus-veneris/medium/49636882698_cb4fa4c685_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/543_adiantum_capillus-veneris/small/49636882698_cb4fa4c685_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/543_adiantum_capillus-veneris/thumbnail/49636882698_cb4fa4c685_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 546,
+      "common_name": "delta maidenhair fern",
+      "scientific_name": [
+        "Adiantum raddianum"
+      ],
+      "other_name": [],
+      "family": "Pteridaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "raddianum",
+      "genus": "Adiantum",
+      "origin": [
+        "Tropical Americas",
+        "West Indies"
+      ],
+      "type": "Fern",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Cutting",
+        "Spore Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=546&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=546&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "High",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=546&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Delta Maidenhair Fern is an amazing species of fern with a unique look. Its fronds create a delicate-looking cloud of bright-green foliage, adding a tropical feel to any environment. Its small, triangular leaves grow in whorls of three on the ends of thin black stems, forming an intricate pattern. Its hardiness makes it one of the most versatile ferns for both indoor and outdoor growth. Its light texture and lush colours make it an ideal houseplant for a highlight corner of a home or office. With proper care and attention, it will bring an elegant note of greenery and serenity to any space.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/546_adiantum_raddianum/og/48134564587_c4562175cb_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/546_adiantum_raddianum/regular/48134564587_c4562175cb_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/546_adiantum_raddianum/medium/48134564587_c4562175cb_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/546_adiantum_raddianum/small/48134564587_c4562175cb_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/546_adiantum_raddianum/thumbnail/48134564587_c4562175cb_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 549,
+      "common_name": "urn plant",
+      "scientific_name": [
+        "Aechmea fasciata"
+      ],
+      "other_name": [
+        "silver vase"
+      ],
+      "family": "Bromeliaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "fasciata",
+      "genus": "Aechmea",
+      "origin": [
+        "Brazil"
+      ],
+      "type": "Epiphyte",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=549&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=549&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"1-2\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flower",
+          "color": [
+            "light-pink"
+          ]
+        },
+        {
+          "part": "buds",
+          "color": [
+            "pink-blue",
+            "purple-blue"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green",
+            "green-white"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "May",
+        "June",
+        "July",
+        "December",
+        "January",
+        "February"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": true,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=549&key=sk-Y3iq685405063afde11077",
+      "soil": [
+        "Well-drained"
+      ],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": true,
+      "indoor": true,
+      "care_level": "Moderate",
+      "pest_susceptibility": [
+        "Crown rot",
+        " Mealybugs",
+        " Root rot",
+        " Scale insects"
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Summer",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The urn plant (Aechmea fasciata) is an amazing species because of its striking foliage and interesting growth habit. It is one of the few bromeliads that produces structural leaves in a rosette pattern and colorful flower spikes. Its evergreen leaves can range from deep green to silver and can feature stripes, spots, or variegation. Additionally, this species is known to produce offsets, which makes it easier to propagate. And, finally, its vivid red, pink, or yellow flowers, depending on the variety, are stunning and last for months.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/549_aechmea_fasciata/og/51446529161_03b99a881f_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/549_aechmea_fasciata/regular/51446529161_03b99a881f_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/549_aechmea_fasciata/medium/51446529161_03b99a881f_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/549_aechmea_fasciata/small/51446529161_03b99a881f_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/549_aechmea_fasciata/thumbnail/51446529161_03b99a881f_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 551,
+      "common_name": "stalked aeonium",
+      "scientific_name": [
+        "Aeonium undulatum"
+      ],
+      "other_name": [],
+      "family": "Crassulaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "undulatum",
+      "genus": "Aeonium",
+      "origin": [
+        "Canary Islands"
+      ],
+      "type": "Shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Cutting",
+        "Division",
+        "Seed Propagation",
+        "Layering Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=551&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=551&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "February",
+        "March",
+        "April"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=551&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": true,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Stalked Aeonium, or Aeonium undulatum, is an amazing succulent species with its showy yellow blooms and striking foliage. Its bright purple-green foliage has stout stems that produce a neat rosette pattern, while the yellow flowers appear in winter and early spring. The plant does best in well-drained soil and medium light, making it suitable for all types of gardens. Stalked Aeonium is drought-tolerant and requires minimal care. Its beauty and hardiness make it a great addition to any garden, bringing color and style to any landscape. With its low-maintenance requirements, Stalked Aeonium is an amazing succulent species worth adding to any garden.",
+      "default_image": {
+        "license": 44,
+        "license_name": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "original_url": "https://perenual.com/storage/species_image/551_aeonium_undulatum/og/023e2628848775ea95af34a39eaee4d60fab11ed.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/551_aeonium_undulatum/regular/023e2628848775ea95af34a39eaee4d60fab11ed.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/551_aeonium_undulatum/medium/023e2628848775ea95af34a39eaee4d60fab11ed.jpg",
+        "small_url": "https://perenual.com/storage/species_image/551_aeonium_undulatum/small/023e2628848775ea95af34a39eaee4d60fab11ed.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/551_aeonium_undulatum/thumbnail/023e2628848775ea95af34a39eaee4d60fab11ed.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 552,
+      "common_name": "lipstick plant",
+      "scientific_name": [
+        "Aeschynanthus radicans"
+      ],
+      "other_name": [],
+      "family": "Gesneriaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "radicans",
+      "genus": "Aeschynanthus",
+      "origin": [
+        "Malaysia"
+      ],
+      "type": "Vine",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0,
+          "max_value": 0.25,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Air Layering Propagation",
+        "Division",
+        "Leaf Cutting"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=552&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=552&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "flower",
+          "color": [
+            "red"
+          ]
+        },
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "brown"
+          ]
+        },
+        {
+          "part": "thorns",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=552&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": true,
+      "indoor": true,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The lipstick plant (Aeschynanthus radicans) is an amazing species that stands out with its unique color, texture and shape. Its waxy leaves have attractive colors, making it pleasing to look at, while its clusters of bright red and orange flowers look like tubes of lipstick! This plant is very easy to care for, being a low-maintenance, tropical evergreen climber. It does best in bright, indirect sunlight and in moist, well-drained soil. Additionally, it is known for its long flowering period, adding a splash of color to your indoor or outdoor spaces. With its beautiful colors, distinctive leaves, and ease of care, the lipstick plant is a fantastic addition to any garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/552_aeschynanthus_radicans/og/29949422675_2671589cdf_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/552_aeschynanthus_radicans/regular/29949422675_2671589cdf_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/552_aeschynanthus_radicans/medium/29949422675_2671589cdf_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/552_aeschynanthus_radicans/small/29949422675_2671589cdf_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/552_aeschynanthus_radicans/thumbnail/29949422675_2671589cdf_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 625,
+      "common_name": "Philippine evergreen",
+      "scientific_name": [
+        "Aglaonema commutatum"
+      ],
+      "other_name": [],
+      "family": "Araceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "commutatum",
+      "genus": "Aglaonema",
+      "origin": [
+        "Philippines",
+        "northeastern Celebes"
+      ],
+      "type": "Shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Division",
+        "Air Layering Propagation",
+        "Leaf Cutting"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "12"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=625&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=625&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "May",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=625&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": true,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Philippine evergreen (Aglaonema commutatum) is truly an amazing plant for many reasons. It has a beautiful, glossy foliage that is decorated with silver brush strokes, giving it an eye-catching appearance. It is also considered one of the most versatile and easy-to-care-for houseplants. It grows quickly, is tolerant of low light, and surviving drought periods. Additionally, the Philippine evergreen is known to be an air-purifying plant, ridding the air of many harmful toxins. It provides a lush, jungle-like atmosphere to your home or office with minimal effort.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/625_aglaonema_commutatum/og/24798632751_3a039ecbc6_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/625_aglaonema_commutatum/regular/24798632751_3a039ecbc6_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/625_aglaonema_commutatum/medium/24798632751_3a039ecbc6_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/625_aglaonema_commutatum/small/24798632751_3a039ecbc6_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/625_aglaonema_commutatum/thumbnail/24798632751_3a039ecbc6_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 626,
+      "common_name": "Chinese evegreen",
+      "scientific_name": [
+        "Aglaonema 'Cutlass'"
+      ],
+      "other_name": [],
+      "family": "Araceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Cutlass",
+      "variety": null,
+      "species_epithet": "'Cutlass'",
+      "genus": "Aglaonema",
+      "origin": [
+        "China"
+      ],
+      "type": "Shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Air Layering Propagation",
+        "Stem Propagation",
+        "Leaf Cutting"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=626&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=626&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=626&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Chinese evergreen (Aglaonema 'Cutlass') is an amazing plant that is sure to bring joy and beauty to any home. It\u2019s low-maintenance and requires minimal care, making it perfect for novice gardeners. It\u2019s easy to propagate and comes in vibrant colors featuring streaks of white, cream, and pink. This stunning foliage reduces stress and can help improve air quality by naturally filtering toxins from the air. Chinese evergreen is a great way to add a touch of luxury to any home d\u00e9cor.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/626_aglaonema_cutlass/og/2560px-Chinese_Evergreen_28Aglaonema_nitidum_27Silver_Queen2729_1.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/626_aglaonema_cutlass/regular/2560px-Chinese_Evergreen_28Aglaonema_nitidum_27Silver_Queen2729_1.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/626_aglaonema_cutlass/medium/2560px-Chinese_Evergreen_28Aglaonema_nitidum_27Silver_Queen2729_1.jpg",
+        "small_url": "https://perenual.com/storage/species_image/626_aglaonema_cutlass/small/2560px-Chinese_Evergreen_28Aglaonema_nitidum_27Silver_Queen2729_1.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/626_aglaonema_cutlass/thumbnail/2560px-Chinese_Evergreen_28Aglaonema_nitidum_27Silver_Queen2729_1.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 627,
+      "common_name": "Chinese evergreen",
+      "scientific_name": [
+        "Aglaonema 'Red Gold'"
+      ],
+      "other_name": [],
+      "family": "Araceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Red Gold",
+      "variety": null,
+      "species_epithet": "'Red",
+      "genus": "Aglaonema",
+      "origin": [
+        "China"
+      ],
+      "type": "Shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Stem Propagation",
+        "Air Layering Propagation",
+        "Leaf Cutting"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=627&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=627&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part sun/part shade",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=627&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": true,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Chinese evergreen (Aglaonema 'Red Gold') is one of the most amazing plants you can own. This stunning evergreen has a unique look, with its dark green leaves accented with intricate, eye catching red and gold stripes. Not only is it beautiful to look at, but it's incredibly easy to care for as well. It requires minimal attention and is perfect for even the busiest of gardeners. This hardy species prefers low light, so it can be grown indoors or in a shaded outdoor area with plenty of humidity. Its versatility and bold colors make it a standout choice for your home or office.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 628,
+      "common_name": "Chinese evergreen",
+      "scientific_name": [
+        "Aglaonema 'Silver Queen'"
+      ],
+      "other_name": [],
+      "family": "Araceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Silver Queen",
+      "variety": null,
+      "species_epithet": "'Silver",
+      "genus": "Aglaonema",
+      "origin": [
+        "China"
+      ],
+      "type": "Shrub",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Air Layering Propagation",
+        "Stem Propagation",
+        "Leaf Cutting"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=628&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=628&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "full shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=628&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": true,
+      "indoor": true,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "The Chinese evergreen (Aglaonema 'Silver Queen') is one of the most popular houseplants because of its ease of care and gorgeous foliage. Its lush, dark green leaves can be splashed with colors of silver, gray, and white, making it a stunning addition to any home. Not only is it beautiful, but it is also very low maintenance, requiring little light and water to thrive. Additionally, it is known to purify the air and help reduce airborne toxins. These long-living plants can bring a bit of nature indoors and put a pleasant pop of color in any home.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/628_aglaonema_silver_queen/og/24798632751_3a039ecbc6_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/628_aglaonema_silver_queen/regular/24798632751_3a039ecbc6_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/628_aglaonema_silver_queen/medium/24798632751_3a039ecbc6_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/628_aglaonema_silver_queen/small/24798632751_3a039ecbc6_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/628_aglaonema_silver_queen/thumbnail/24798632751_3a039ecbc6_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 667,
+      "common_name": "onion",
+      "scientific_name": [
+        "Allium cepa"
+      ],
+      "other_name": [
+        "spring onion",
+        "shallot"
+      ],
+      "family": "Amaryllidaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "cepa",
+      "genus": "Allium",
+      "origin": [
+        "Not known in wild"
+      ],
+      "type": "Bulb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 1.5,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Seed Propagation",
+        "Tissue Culture"
+      ],
+      "hardiness": {
+        "min": "5",
+        "max": "10"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=667&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=667&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"3-5\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "bulbs",
+          "color": [
+            "white"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": true,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=667&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [
+        "Diptera - true flies",
+        " Rust",
+        "  Pest resistant",
+        " Deer resistant",
+        " Rabbit resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": true,
+      "harvest_season": "Fall",
+      "leaf": true,
+      "edible_leaf": true,
+      "cuisine": true,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Onion (Allium cepa) is an amazing and versatile vegetable that has been used in cooking for centuries. Its taste is powerful yet complex, and it adds flavor and texture to many dishes. Onions are incredibly nutritious and are packed with essential vitamins and minerals including vitamin C, folate, iron, and potassium. Not only that, but onions may also have antiseptic, antibiotic, and antioxidant properties. They are an excellent source of dietary fiber and possess anti-inflammatory compounds. Onions are easy to grow in any garden, and they come in a variety of sizes, shapes and colors, making them a unique and beautiful ornamental plant. Its versatility in cooking, nutritional content, and medicinal properties combined with its decorative appearance make the onion a truly remarkable species.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/667_allium_cepa/og/24466615444_a161c175d3_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/667_allium_cepa/regular/24466615444_a161c175d3_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/667_allium_cepa/medium/24466615444_a161c175d3_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/667_allium_cepa/small/24466615444_a161c175d3_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/667_allium_cepa/thumbnail/24466615444_a161c175d3_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 710,
+      "common_name": "elephant's ear",
+      "scientific_name": [
+        "Alocasia amazonica"
+      ],
+      "other_name": [],
+      "family": "Araceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "amazonica",
+      "genus": "Alocasia",
+      "origin": [
+        "Garden origin"
+      ],
+      "type": "Bulb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Air Layering Propagation",
+        "Stem Propagation",
+        "Offsets",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "12"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=710&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=710&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "dark-green"
+          ]
+        },
+        {
+          "part": "veins",
+          "color": [
+            "white"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=710&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": true,
+      "tropical": true,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": true,
+      "poisonous_to_pets": true,
+      "description": "The elephant's ear (Alocasia amazonica) is an amazing plant species. Its striking foliage features parabolic shaped leaves with bright green and silver/blue-green veins on the surface. Its white veins make the plant appear more vibrant, especially when provided with enough sunlight. Its size can range from one to two feet, making it an immediate attention-grabbing and decorative addition to any garden. It can also be grown indoors and is known for its air purifying capabilities. With its stunning, intricate foliage and its ability to add a splash of life and vivid color wherever you choose, the elephant's ear is an amazing species to add to your garden.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/710_alocasia_amazonica/og/24444063964_a3054131aa_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/710_alocasia_amazonica/regular/24444063964_a3054131aa_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/710_alocasia_amazonica/medium/24444063964_a3054131aa_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/710_alocasia_amazonica/small/24444063964_a3054131aa_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/710_alocasia_amazonica/thumbnail/24444063964_a3054131aa_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 711,
+      "common_name": "Amazonian elephant's ear",
+      "scientific_name": [
+        "Alocasia amazonica 'Polly'"
+      ],
+      "other_name": [],
+      "family": "Araceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Polly",
+      "variety": null,
+      "species_epithet": "amazonica",
+      "genus": "Alocasia",
+      "origin": [
+        "Colombia",
+        "Ecuador",
+        "Peru",
+        "Bolivia",
+        "Brazil"
+      ],
+      "type": "Bulb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Air Layering Propagation",
+        "Stem Propagation",
+        "Offsets",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "12"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=711&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=711&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=711&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": true,
+      "indoor": true,
+      "care_level": "High",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": true,
+      "poisonous_to_pets": true,
+      "description": "The Amazonian elephant\u2019s ear (Alocasia amazonica 'Polly') is a unique and stunning plant that demands attention! Its lush, velvety leaves are an eye-catching bright green, with prominent ivory undersides. The deep purple veins running through the foliage lend a striking contrast. With large and distinctive heart-shaped leaves resembling an elephant\u2019s ear, it establishes a striking presence in any room or garden. Its tall, glossy stems create a strikingly elegant look. No wonder it\u2019s the preferred choice of gardeners! Its easy to care for and its exotic beauty will never go out of style.",
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/711_alocasia_amazonica_polly/og/pexels-photo-12419491.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/711_alocasia_amazonica_polly/regular/pexels-photo-12419491.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/711_alocasia_amazonica_polly/medium/pexels-photo-12419491.jpg",
+        "small_url": "https://perenual.com/storage/species_image/711_alocasia_amazonica_polly/small/pexels-photo-12419491.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/711_alocasia_amazonica_polly/thumbnail/pexels-photo-12419491.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 712,
+      "common_name": "elephant's ear",
+      "scientific_name": [
+        "Alocasia 'Frydek'"
+      ],
+      "other_name": [],
+      "family": "Araceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Frydek",
+      "variety": null,
+      "species_epithet": "'Frydek'",
+      "genus": "Alocasia",
+      "origin": [
+        "Czech Republic"
+      ],
+      "type": "Bulb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Air Layering Propagation",
+        "Stem Propagation",
+        "Offsets",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "9",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=712&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=712&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"5-7\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=712&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": true,
+      "indoor": true,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": true,
+      "poisonous_to_pets": true,
+      "description": "The elephant's ear (Alocasia 'Frydek') is a truly amazing addition to any garden or outdoor area. Its large, eye-catching, veined foliage is a unique deep green and its easy-to-manage size means it can fit almost anywhere. Furthermore, its glossy leaves are sure to be a pleasure to look at under the sun. On top of its exotic beauty, this plant is known to attract pollinators such as butterflies and hummingbirds, making it a great choice for anyone looking for an addition that adds beauty and liven up the design. Adding to its appeal, this plant is easy to care for and requires minimal attention. With its showstopping beauty and minimal maintenance, the elephant's ear is sure to be a beautiful addition to any outdoor space.",
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/712_alocasia_frydek/og/Alocasia_micholitziana.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/712_alocasia_frydek/regular/Alocasia_micholitziana.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/712_alocasia_frydek/medium/Alocasia_micholitziana.jpg",
+        "small_url": "https://perenual.com/storage/species_image/712_alocasia_frydek/small/Alocasia_micholitziana.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/712_alocasia_frydek/thumbnail/Alocasia_micholitziana.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 713,
+      "common_name": "elephant's ear",
+      "scientific_name": [
+        "Alocasia (group)"
+      ],
+      "other_name": [],
+      "family": "Araceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "(group)",
+      "genus": "Alocasia",
+      "origin": [
+        "Southeast Asia",
+        "India",
+        "China",
+        "Indonesia",
+        "Malaysia",
+        "Philippines"
+      ],
+      "type": "Bulb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 6,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Air Layering Propagation",
+        "Stem Propagation",
+        "Offsets",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=713&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=713&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"5-7\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=713&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": true,
+      "tropical": true,
+      "indoor": true,
+      "care_level": "High",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": true,
+      "poisonous_to_pets": true,
+      "description": "The Elephant\u2019s Ear is a truly impressive plant species, featuring wide, glossy leaves that look strikingly similar to an elephant's ear. This majestic, low-maintenance plant will add a real touch of class to any home. The Elephant\u2019s Ear is also known for its quick growth rate, with each leaf growing up to four feet wide and long, making it an eye-catching addition that can fill entire rooms. Colorful flowering varieties of the Elephant\u2019s Ear create a beautiful display of vibrant deep green or purple leaves with stunning, contrasting white veins. So if you\u2019re looking for a dramatic addition to your home, the Elephant\u2019s Ear is definitely a great choice.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/713_alocasia_group/og/24444063964_a3054131aa_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/713_alocasia_group/regular/24444063964_a3054131aa_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/713_alocasia_group/medium/24444063964_a3054131aa_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/713_alocasia_group/small/24444063964_a3054131aa_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/713_alocasia_group/thumbnail/24444063964_a3054131aa_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 714,
+      "common_name": "elephant's ear",
+      "scientific_name": [
+        "Alocasia LOW RIDER"
+      ],
+      "other_name": [],
+      "family": "Araceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "LOW",
+      "genus": "Alocasia",
+      "origin": [
+        "Southeast Asia",
+        "India",
+        "China",
+        "Indonesia",
+        "Malaysia",
+        "Thailand",
+        "Vietnam"
+      ],
+      "type": "Bulb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Air Layering Propagation",
+        "Stem Propagation",
+        "Offsets",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "7",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=714&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=714&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"5-7\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=714&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Slow",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": true,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": true,
+      "poisonous_to_pets": true,
+      "description": "Elephant's Ear (Alocasia Low Rider) is a stunning and unique plant species characterized by its lush, lush, dark-green foliage. Its signature \"elephant ear\" shaped leaves and thick stems reach huge proportions, making this plant a show-stopper in any garden or home setting. Also known as \"Alocasia Low Rider\", this particular species of elephant's ear is particularly remarkable as its lower leaves tend to be shorter and wider than standard forms, making it an ideal \"ground cover\" choice. Unusual, attractive and low-maintenance, this eye-catching ornamental perennial is sure to serve as an impressive feature in any landscape.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/714_alocasia_low_rider/og/8415446715_799e70b503_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/714_alocasia_low_rider/regular/8415446715_799e70b503_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/714_alocasia_low_rider/medium/8415446715_799e70b503_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/714_alocasia_low_rider/small/8415446715_799e70b503_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/714_alocasia_low_rider/thumbnail/8415446715_799e70b503_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 715,
+      "common_name": "giant elephant's ear",
+      "scientific_name": [
+        "Alocasia macrorrhizos"
+      ],
+      "other_name": [],
+      "family": "Araceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "macrorrhizos",
+      "genus": "Alocasia",
+      "origin": [
+        "Australia",
+        "Malesia",
+        "Papuasia"
+      ],
+      "type": "Bulb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 12,
+          "max_value": 15,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Stem Propagation",
+        "Air Layering Propagation",
+        "Offsets",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "9",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=715&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=715&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green",
+            "dark-green"
+          ]
+        },
+        {
+          "part": "veins",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "trunk",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "yellow-green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 2,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=715&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": true,
+      "invasive": true,
+      "tropical": true,
+      "indoor": true,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": true,
+      "poisonous_to_pets": true,
+      "description": "The giant elephant's ear (Alocasia macrorrhizos) is an amazing plant species because of its large and broad leaves. Its leaves can grow to be over 6 feet long and 3 feet wide. It is a tropical plant, preferring humid environments and is great for creating a tropical feel in your home. The foliage is also a striking addition to your garden, with its huge, dark green leaves veined with lighter green veins creating an interesting pattern. Its leaves also offer some shade and relief from the hot sun on hot summer days.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/715_alocasia_macrorrhizos/og/33234440338_8b31463973_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/715_alocasia_macrorrhizos/regular/33234440338_8b31463973_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/715_alocasia_macrorrhizos/medium/33234440338_8b31463973_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/715_alocasia_macrorrhizos/small/33234440338_8b31463973_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/715_alocasia_macrorrhizos/thumbnail/33234440338_8b31463973_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 716,
+      "common_name": "elephant's ear",
+      "scientific_name": [
+        "Alocasia 'Metalhead'"
+      ],
+      "other_name": [],
+      "family": "Araceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Metalhead",
+      "variety": null,
+      "species_epithet": "'Metalhead'",
+      "genus": "Alocasia",
+      "origin": [
+        "Southeast Asia",
+        "India",
+        "China",
+        "Thailand",
+        "Malaysia",
+        "Indonesia"
+      ],
+      "type": "Bulb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 3,
+          "max_value": 4,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Air Layering Propagation",
+        "Stem Propagation",
+        "Offsets",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "9",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=716&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=716&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"5-7\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=716&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": true,
+      "indoor": true,
+      "care_level": "High",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": true,
+      "poisonous_to_pets": true,
+      "description": "Elephant's Ear (Alocasia 'Metalhead') is an exotic tropical plant known for its huge, dark green, heart-shaped leaves patterned in deep purple and white. This ornamental plant makes a fantastic addition to your home or garden, as its impressive size will draw the eye. Its leathery leaves can grow up to three feet long and provide a stunning contrast to the bold colors of its markings. The plant also produces both male and female flowers, although the female flowers tend to be rarer, making the species even more spectacular. With the correct care, 'Metalhead' is a lovely and eye-catching addition to any residential space.",
+      "default_image": null,
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 717,
+      "common_name": "elephant's ear",
+      "scientific_name": [
+        "Alocasia 'Portora'"
+      ],
+      "other_name": [],
+      "family": "Araceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Portora",
+      "variety": null,
+      "species_epithet": "'Portora'",
+      "genus": "Alocasia",
+      "origin": [
+        "Sri Lanka",
+        "India",
+        "Bangladesh",
+        "Myanmar",
+        "Thailand",
+        "Cambodia",
+        "Laos",
+        "Vietnam",
+        "Malaysia",
+        "Indonesia"
+      ],
+      "type": "Bulb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 5,
+          "max_value": 6,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Air Layering Propagation",
+        "Stem Propagation",
+        "Offsets",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "7",
+        "max": "10"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=717&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=717&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"5-7\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "yellow-green",
+            "green"
+          ]
+        },
+        {
+          "part": "flowers",
+          "color": [
+            "pink"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "veins",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "pruning_count": {
+        "amount": 3,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=717&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": true,
+      "indoor": true,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": true,
+      "poisonous_to_pets": true,
+      "description": "The Elephant's Ear (Alocasia 'Portora') is an amazing ornamental plant for the garden. Its broad, deep-green, heart-shaped leaves have an iridescent quality that channels the beauty of an elephant's ears. Strikingly contrasting veins visibly contrast the lushness of this species, and further compliment its breathtaking silhouette. With good watering and care, this foliage plant can reach a height of 8-10 feet, making it perfect for larger garden spaces. Its bright ambiance will provide the perfect accent to any landscape and its hearty leaves will retain its vibrancy throughout any season.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/717_alocasia_portora/og/50513640218_140cd83c95_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/717_alocasia_portora/regular/50513640218_140cd83c95_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/717_alocasia_portora/medium/50513640218_140cd83c95_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/717_alocasia_portora/small/50513640218_140cd83c95_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/717_alocasia_portora/thumbnail/50513640218_140cd83c95_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 718,
+      "common_name": "elephant's ear",
+      "scientific_name": [
+        "Alocasia 'Sarian'"
+      ],
+      "other_name": [],
+      "family": "Araceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": "Sarian",
+      "variety": null,
+      "species_epithet": "'Sarian'",
+      "genus": "Alocasia",
+      "origin": [
+        "Philippines",
+        "India",
+        "Malaysia",
+        "Indonesia",
+        "Thailand"
+      ],
+      "type": "Bulb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 5,
+          "max_value": 10,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division",
+        "Air Layering Propagation",
+        "Stem Propagation",
+        "Offsets",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "9",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=718&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=718&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Average",
+      "watering_general_benchmark": {
+        "value": "\"5-7\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [],
+      "sunlight": [
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Moderate",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=718&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": false,
+      "thorny": false,
+      "invasive": false,
+      "tropical": true,
+      "indoor": true,
+      "care_level": null,
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": true,
+      "poisonous_to_pets": true,
+      "description": "Elephant's ear (Alocasia 'Sarian') is truly a sight to behold. Its large, heart-shaped leaves with deep green veins create a dramatic tropical focal point for any garden. Its magnificent size can reach up to five feet in height, with the leaves growing up to one foot wide. When touched, the leaves produce a unique texture that feels velvety and silky. This plant is incredibly easy to care for and can tolerate a range of light conditions. With its impressive size and vibrant zebra-like pattern, this stunning plant is sure to be the show-stopping centerpiece of any exotic garden.",
+      "default_image": {
+        "license": 6,
+        "license_name": "Attribution-NoDerivs License",
+        "license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/718_alocasia_sarian/og/466458488_b9358efed2_z.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 721,
+      "common_name": "aloe",
+      "scientific_name": [
+        "Aloe harlana"
+      ],
+      "other_name": [],
+      "family": "Asphodelaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "harlana",
+      "genus": "Aloe",
+      "origin": [
+        "Ethiopia"
+      ],
+      "type": null,
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 2,
+          "max_value": 3,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Offsets",
+        "Leaf Cutting",
+        "Division",
+        "Seed Propagation",
+        "Grafting Propagation"
+      ],
+      "hardiness": {
+        "min": "9",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=721&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=721&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "thorns",
+          "color": [
+            "orange"
+          ]
+        }
+      ],
+      "sunlight": [
+        "part shade",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "March",
+        "April",
+        "May"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=721&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Low",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Aloe harlana, also known as the yellow-flowering barbed aloe, is a plant species that is simply remarkable. It has a remarkable longevity and ability to thrive in arid regions, making it a great choice for those looking for a minimal maintenance houseplant. Its bright yellow flowers are composed of hundreds of wispy petals, giving an almost ethereal ambiance to any room it\u2019s placed in. The leaves of an aloe harlana are thick yet supple and provide powerful medicinal properties, as well as being an effective deterrent against pests. All in all, the Aloe harlana is an easy-to-care for plant with a multitude of benefits that make it a must-have in any home.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/721_aloe_harlana/og/5582077315_8d613454aa_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/721_aloe_harlana/regular/5582077315_8d613454aa_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/721_aloe_harlana/medium/5582077315_8d613454aa_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/721_aloe_harlana/small/5582077315_8d613454aa_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/721_aloe_harlana/thumbnail/5582077315_8d613454aa_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 727,
+      "common_name": "aloe",
+      "scientific_name": [
+        "Aloe suzannae"
+      ],
+      "other_name": [],
+      "family": "Asphodelaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "suzannae",
+      "genus": "Aloe",
+      "origin": [
+        "Madagascar"
+      ],
+      "type": "Tree",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 8,
+          "max_value": 12,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Perennial",
+      "attracts": [],
+      "propagation": [
+        "Offsets",
+        "Leaf Cutting",
+        "Seed Propagation",
+        "Division"
+      ],
+      "hardiness": {
+        "min": "9",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=727&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=727&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "trunk",
+          "color": [
+            "brown"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part sun/part shade"
+      ],
+      "pruning_month": [
+        "June",
+        "July"
+      ],
+      "pruning_count": {
+        "amount": 1,
+        "interval": "yearly"
+      },
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=727&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "Low",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Low",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Aloe suzannae, otherwise known as 'pocket aloe', is an amazing plant species. It is native to Namibia and South Africa, with its unique spikey leaves forming a rosette shape. It is well known for its health benefits and its resilience when it comes to droughts. It loves the sun and can survive in a variety of conditions, requiring minimal care. Its beautiful orange-yellow flowers appear in summer, adding an extra special touch. Aloe susannae is an amazing addition to any garden, adding a vibrant and colourful touch.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/727_aloe_suzannae/og/23704519300_5ec1807143_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/727_aloe_suzannae/regular/23704519300_5ec1807143_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/727_aloe_suzannae/medium/23704519300_5ec1807143_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/727_aloe_suzannae/small/23704519300_5ec1807143_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/727_aloe_suzannae/thumbnail/23704519300_5ec1807143_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 728,
+      "common_name": "aloe",
+      "scientific_name": [
+        "Aloe vera"
+      ],
+      "other_name": [],
+      "family": "Asphodelaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "vera",
+      "genus": "Aloe",
+      "origin": [
+        "Mediterranean"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 1,
+          "max_value": 2,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Division"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "12"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=728&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=728&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Minimum",
+      "watering_general_benchmark": {
+        "value": "\"7-10\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun"
+      ],
+      "pruning_month": [
+        "March",
+        "April"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=728&key=sk-Y3iq685405063afde11077",
+      "soil": [
+        "Well-drained"
+      ],
+      "growth_rate": "High",
+      "drought_tolerant": true,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": null,
+      "pest_susceptibility": [
+        "Mealybugs",
+        " Root rot",
+        " Scale insects",
+        "  Drought resistant "
+      ],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": true,
+      "edible_fruit": false,
+      "harvest_season": "Summer",
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": true,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Aloe vera is a fantastic plant species known for its many amazing health benefits. Consisting of thick leaves with a gel-like interior, aloe vera has long been used as a traditional remedy for treating skin conditions. It is a great source of vitamins, minerals, and amino acids, making it a great natural remedy for common ailments. Aloe vera is also incredibly versatile, with the gel and sap being used for everything from digestive disorders to eye health. It is even believed to reduce inflammation and improve circulation. With its myriad of benefits, aloe vera is definitely an amazing plant species.",
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/728_aloe_vera/og/52619084582_6ebcfe6a74_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/728_aloe_vera/regular/52619084582_6ebcfe6a74_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/728_aloe_vera/medium/52619084582_6ebcfe6a74_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/728_aloe_vera/small/52619084582_6ebcfe6a74_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/728_aloe_vera/thumbnail/52619084582_6ebcfe6a74_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    },
+    {
+      "id": 747,
+      "common_name": "Joseph's coat",
+      "scientific_name": [
+        "Alternanthera ficoidea"
+      ],
+      "other_name": [],
+      "family": "Amaranthaceae",
+      "hybrid": null,
+      "authority": null,
+      "subspecies": null,
+      "cultivar": null,
+      "variety": null,
+      "species_epithet": "ficoidea",
+      "genus": "Alternanthera",
+      "origin": [
+        "Caribbean",
+        "Central and South America"
+      ],
+      "type": "Herb",
+      "dimensions": [
+        {
+          "type": null,
+          "min_value": 0.5,
+          "max_value": 1,
+          "unit": "feet"
+        }
+      ],
+      "cycle": "Herbaceous Perennial",
+      "attracts": [],
+      "propagation": [
+        "Stem Propagation",
+        "Division",
+        "Layering Propagation",
+        "Seed Propagation"
+      ],
+      "hardiness": {
+        "min": "10",
+        "max": "11"
+      },
+      "hardiness_location": {
+        "full_url": "https://perenual.com/api/hardiness-map?species_id=747&size=og&key=sk-Y3iq685405063afde11077",
+        "full_iframe": "<iframe frameborder=0 scrolling=yes seamless=seamless width=1000 height=550 style='margin:auto;' src='https://perenual.com/api/hardiness-map?species_id=747&size=og&key=sk-Y3iq685405063afde11077'></iframe>"
+      },
+      "watering": "Frequent",
+      "watering_general_benchmark": {
+        "value": "\"2-3\"",
+        "unit": "days"
+      },
+      "plant_anatomy": [
+        {
+          "part": "leaves",
+          "color": [
+            "green-pink-red",
+            "green"
+          ]
+        },
+        {
+          "part": "stems",
+          "color": [
+            "pink",
+            "red-pink"
+          ]
+        },
+        {
+          "part": "stem",
+          "color": [
+            "green"
+          ]
+        },
+        {
+          "part": "blooms",
+          "color": [
+            "white"
+          ]
+        }
+      ],
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "pruning_month": [
+        "May",
+        "June",
+        "July"
+      ],
+      "pruning_count": [],
+      "seeds": false,
+      "maintenance": "Low",
+      "care_guides": "http://perenual.com/api/species-care-guide-list?species_id=747&key=sk-Y3iq685405063afde11077",
+      "soil": [],
+      "growth_rate": "High",
+      "drought_tolerant": false,
+      "salt_tolerant": true,
+      "thorny": false,
+      "invasive": false,
+      "tropical": false,
+      "indoor": true,
+      "care_level": "Medium",
+      "pest_susceptibility": [],
+      "flowers": true,
+      "flowering_season": null,
+      "cones": false,
+      "fruits": false,
+      "edible_fruit": false,
+      "harvest_season": null,
+      "leaf": true,
+      "edible_leaf": false,
+      "cuisine": false,
+      "medicinal": false,
+      "poisonous_to_humans": false,
+      "poisonous_to_pets": false,
+      "description": "Joseph's coat (Alternanthera ficoidea) is an amazing plant that stands out from other species because of its vibrant, multi-colored foliage. Its leaves display shades of red, yellow, white, and purple, making it a dynamic addition to any landscape or container garden. It is extremely simple to maintain and can thrive in a variety of soil conditions. Joseph's coat can withstand extremes in temperature, drought and semi-shade without compromising its color. It also blooms small flowers that last until late fall adding to the vibrant display. It is a great choice for any gardener looking to add stunning color and texture to any space.",
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/747_alternanthera_ficoidea/og/48756446498_fc5901c40d_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/747_alternanthera_ficoidea/regular/48756446498_fc5901c40d_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/747_alternanthera_ficoidea/medium/48756446498_fc5901c40d_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/747_alternanthera_ficoidea/small/48756446498_fc5901c40d_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/747_alternanthera_ficoidea/thumbnail/48756446498_fc5901c40d_b.jpg"
+      },
+      "other_images": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringQuality": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPeriod": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringAvgVolumeRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringDepthRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringBasedTemperature": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xWateringPhLevel": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xSunlightDuration": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xTemperatureTolence": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry",
+      "xPlantSpacingRequirement": "Upgrade Plan To Supreme For Access https://perenual.com/subscription-api-pricing. Im sorry"
+    }
+  ]
+}

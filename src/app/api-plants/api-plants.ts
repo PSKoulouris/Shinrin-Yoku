@@ -13,11 +13,12 @@ import {RouterLink} from '@angular/router';
 export class ApiPlants {
 
   
-   private apiURL = 'data/plantsSummary.json'
+   private apiURL = 'data/data_details.json'
 
   plantsList: {
    id: number,
-   image: string
+   image: string,
+   common_name: string
   }[] = [];
 
   //id for the detail page:
@@ -37,7 +38,8 @@ export class ApiPlants {
 
         this.plantsList = data["data"].map((plant:any) => ({
            id: plant.id,
-          image: plant.default_image?.small_url
+          image: plant.default_image?.small_url,
+          common_name: plant.common_name
         }));
       }
     })

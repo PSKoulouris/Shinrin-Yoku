@@ -3,8 +3,10 @@
 
  @for(plant of plantsList; track plant.id){
 <article>
-    <p>{{plant.id}}</p>
+    <a [routerLink]="['/plant', plant.id]"></a>
     <img [src]="plant.image" alt="Plant image"/>
+    <p>{{plant.id}}</p>
+    <p>{{plant.common_name}}</p>
 </article>
  }
 
