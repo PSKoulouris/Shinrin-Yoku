@@ -4,7 +4,7 @@ import { ApiPlants } from './api-plants/api-plants';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, ApiPlants],
+  imports: [RouterOutlet],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })

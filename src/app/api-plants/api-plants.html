@@ -7,3 +7,7 @@
     <img [src]="plant.image" alt="Plant image"/>
 </article>
  }
+
+ @for (id of ids; track id){
+  <a routerLink="/detail/{{id}}">Go to detail : {{id}}</a><br/>
+}

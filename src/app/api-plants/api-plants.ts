@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
+import {RouterLink} from '@angular/router';
 
 @Component({
   selector: 'app-api-plants',
-  imports: [],
+  imports: [RouterLink],
   templateUrl: './api-plants.html',
   styleUrl: './api-plants.css'
 })
@@ -18,6 +19,9 @@ export class ApiPlants {
    id: number,
    image: string
   }[] = [];
+
+  //id for the detail page:
+    ids: number[] = [];
 
   // j'install le téléphone chez moi
   constructor(private http:HttpClient){}
@@ -43,9 +47,13 @@ export class ApiPlants {
   // Lancer la function dans j'ouvre le composant
   ngOnInit(){
     this.getPlantsData();
+
+    //id for the detail page:
+    this.ids = [
+     1, 2, 3, 4, 5
+   ]
   }
 
 }
-
 
 
