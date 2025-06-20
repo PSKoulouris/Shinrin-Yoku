@@ -50,10 +50,10 @@ export class ApiPlants {
   ngOnInit(){
     this.getPlantsData();
 
-    //id for the detail page:
+   /* //id for the detail page:
     this.ids = [
      1, 2, 3, 4, 5
-   ]
+   ]*/
   }
 
 }

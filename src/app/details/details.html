@@ -1,1 +1,8 @@
-<p>detail-page {{id}} works!</p>
+<div *ngIf="plantData">
+    <h2>{{ plantData.common_name }}</h2>
+    <img [src]="plantData.default_image?.regular_url" alt="{{ plantData.common_name }}" />
+    <p><strong>Scientific Name:</strong> {{ plantData.scientific_name?.join(', ') }}</p>
+    <p><strong>Family:</strong> {{ plantData.family }}</p>
+    <p><strong>Description:</strong> {{ plantData.description }}</p>
+</div>
+

@@ -2,14 +2,14 @@
 
 
  @for(plant of plantsList; track plant.id){
-<article>
-    <a [routerLink]="['/plant', plant.id]"></a>
-    <img [src]="plant.image" alt="Plant image"/>
-    <p>{{plant.id}}</p>
-    <p>{{plant.common_name}}</p>
-</article>
- }
 
- @for (id of ids; track id){
-  <a routerLink="/detail/{{id}}">Go to detail : {{id}}</a><br/>
-}
+<article>
+  <img [src]="plant.image" alt="Plant image" />
+  <!-- Plant name as link to detail page -->
+  <h2>
+    <a [routerLink]="['/detail', plant.id]">{{ plant.common_name }}</a>
+  </h2>
+  <p>ID: {{ plant.id }}</p>
+</article>
+
+ }
