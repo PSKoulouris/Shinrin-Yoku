@@ -1,10 +1,12 @@
 import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import {RouterLink} from '@angular/router';
+import { Router } from '@angular/router';
+import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'app-api-plants',
-  imports: [RouterLink],
+  imports: [],
   templateUrl: './api-plants.html',
   styleUrl: './api-plants.css'
 })
@@ -25,7 +27,7 @@ export class ApiPlants {
     ids: number[] = [];
 
   // j'install le téléphone chez moi
-  constructor(private http:HttpClient){}
+  constructor(private http:HttpClient, private router: Router){}
 
 
 
@@ -43,17 +45,17 @@ export class ApiPlants {
         }));
       }
     })
-  
-    }
+}
+
+ //Click button read more to open the detail page for each plant:
+     goToDetails(id: number) {
+    this.router.navigate(['/detail', id]);
+  }
 
   // Lancer la function dans j'ouvre le composant
   ngOnInit(){
     this.getPlantsData();
 
-   /* //id for the detail page:
-    this.ids = [
-     1, 2, 3, 4, 5
-   ]*/
   }
 
 }

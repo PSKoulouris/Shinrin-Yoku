@@ -1,4 +1,16 @@
 @import "tailwindcss";
 
+/*
+@theme {
+  --color-brand-red: oklch(0.6 0.2 27);
+}
+
+@layer base {
+  h3 {
+    @apply text-brand-red;
+  }
+}
+*/
+
 
 

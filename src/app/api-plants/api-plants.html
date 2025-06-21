@@ -5,11 +5,14 @@
 
 <article>
   <img [src]="plant.image" alt="Plant image" />
-  <!-- Plant name as link to detail page -->
-  <h3>
-    <a [routerLink]="['/detail', plant.id]">{{ plant.common_name }}</a>
-  </h3>
+  <h3>{{ plant.common_name }}</h3>
   <p>ID: {{ plant.id }}</p>
+  
+  <button (click)="goToDetails(plant.id)"
+    class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">
+    Read More
+  </button>
+  
 </article>
 
- }
+}
