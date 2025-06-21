@@ -1,16 +1,30 @@
 @import "tailwindcss";
 
-/*
 @theme {
-  --color-brand-red: oklch(0.6 0.2 27);
+  /* Define CSS custom properties for gold palette */
+  --gold-50: #fff9e6;
+  --gold-100: #fff3bf;
+  --gold-200: #ffe680;
+  --gold-300: #ffd940;
+  --gold-400: #ffca00;
+  --gold-500: #e2b63a;
+  --gold-600: #b38c2d;
+  --gold-700: #7f631f;
+  --gold-800: #4c3a12;
+  --gold-900: #1a0f03;
 }
 
-@layer base {
-  h3 {
-    @apply text-brand-red;
+@layer utilities {
+  /* Create utility classes that use the CSS vars */
+  .text-gold-500 {
+    color: var(--gold-500);
+  }
+  .bg-gold-500 {
+    background-color: var(--gold-500);
+  }
+   .hover\:text-gold-500:hover {
+    color: var(--gold-500);
+  /* Add more classes as needed */
   }
 }
-*/
-
-
 
