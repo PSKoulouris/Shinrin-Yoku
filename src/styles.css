@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
 @import "tailwindcss";
 
 @theme {
@@ -12,6 +15,9 @@
   --gold-700: #7f631f;
   --gold-800: #4c3a12;
   --gold-900: #1a0f03;
+
+  --font-montserrat: 'Montserrat', sans-serif;
+  --font-roboto: 'Roboto', sans-serif;
 }
 
 @layer utilities {
@@ -25,6 +31,13 @@
    .hover\:text-gold-500:hover {
     color: var(--gold-500);
   /* Add more classes as needed */
+  }
+  /* Font family utility */
+  .font-montserrat {
+    font-family: var(--font-montserrat);
+  }
+   .font-roboto {
+    font-family: var(--font-roboto);
   }
 }
 
