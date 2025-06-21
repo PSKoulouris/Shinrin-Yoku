@@ -1,5 +1,59 @@
-<nav class = "flex justify-center">
-    <span>Navigation1</span>
-    <span>Navigation2</span>
-    <span>Navigation3</span>
+<nav class="sticky bg-black top-0 w-full grid grid-cols-12 gap-4 px-6  content-center z-20"> 
+  <!-- Colone 1 3/12 -->
+    <div class="col-span-3 flex space-x-1 justify-center mt-8 mx-auto">
+        <a class="julius-sans-one text-lg text-white px-6 py-4 lg:inline-block hover:text-gold hidden" href="#about">About</a>
+<!--drop down menu with block group and hidden, visible for desktop only-->
+        <div class="lg:inline-block group hidden">
+            <span class="lg:block w-full julius-sans-one text-lg text-white px-6 py-4 hover:text-gold hidden">Plants</span>
+            <div class=" overflow-hidden max-h-0 transition-all duration-700 ease-in-out group-hover:max-h-[1500px] flex flex-col ">
+                <a class="julius-sans-one text-lg text-white px-6 py-0 hover:text-gold" href="#">Indoor</a>
+                <a class="julius-sans-one text-lg text-white px-6 py-0 hover:text-gold" href="#">Afternoon</a>
+                <a class="julius-sans-one text-lg text-white px-6 py-0 hover:text-gold" href="#">Dinner</a>
+                <a class="julius-sans-one text-lg text-white px-6 py-0 hover:text-gold" href="#">Drinks</a>
+            </div>
+        </div>
+    </div>
+    <!-- Colone 2 6/12 Logo image PNG -->
+    <div class="col-span-6 flex mt-0 justify-center">
+        <img class="h-32 w-auto" src="Logo_shirinYoku.png" alt="Ginkjo luxury Japanese restaurant logo in Luxembourg" >
+    </div>
+    <!--Colone 3 3/12-->
+    <div class="col-span-3 lg:flex space-x-1 justify-center mt-8 mx-auto hidden">
+        <a class="julius-sans-one text-lg text-white px-6 py-4 inline-block hover:text-gold" href="#">Contact</a>
+        <a class="julius-sans-one text-lg text-white px-6 py-4 inline-block hover:text-gold" href="#">Home</a>
+    </div>
+    <!-- Hamburger Button for Smartphones only in column 3-->
+    <div class="col-span-3 flex items-center -mt-14 mx-auto">   
+        <button id="hamburger" class="p-2.5 lg:hidden" aria-label="Open Menu">
+              <div class="space-y-1">
+                <!-- Top Line -->
+                <span id="line-1" class="block w-6 h-[3px] bg-white rounded-sm transform origin-center transition-all duration-300 ease-linear"></span>
+                <!-- Middle Line -->
+                <span id="line-2" class="block w-6 h-[3px] bg-white rounded-sm transition-all duration-300 ease-linear"></span>
+                <!-- Bottom Line -->
+                <span id="line-3" class="block w-6 h-[3px] bg-white rounded-sm transform origin-center transition-all duration-300 ease-linear"></span>
+            </div>
+        </button>
+        <!-- Cross Button to close the menu-->
+        <button id="cross" class="p-2.5 lg:hidden hidden">
+            <div class="relative w-6 h-6">
+                <span class="absolute top-1/2 left-0 w-full h-[3px] bg-white rounded-sm transform -translate-y-1/2 rotate-45"></span>
+                <span class="absolute top-1/2 left-0 w-full h-[3px] bg-white rounded-sm transform -translate-y-1/2 -rotate-45"></span>
+            </div>
+        </button>
+    </div>
+    <!-- Sliding Hamburger Menu and SEO -->
+    <div id="menu" class="fixed top-0 left-0 w-[75%] md:w-[40%] h-full  bg-black transform -translate-x-full transition-transform duration-300 lg:hidden">
+        <img src="imagesHamburger\iphone16_sideMenu_upper.webp" alt="Side menu of Ginkjo luxury Japanese restaurant in Luxembourg on mobile" class="w-full h-auto" loading="lazy">
+            <div class="flex flex-col items-center p-6 space-y-1 md:space-y-4 text-white">
+                <a href="#home" class="julius-sans-one  text-base md:text-md hover:bg-gold py-3 px-16">Home</a>
+                <a href="#about" class="julius-sans-one text-base md:text-md hover:bg-gold py-3 px-16">About Us</a>
+                <a href="#lunch" class="julius-sans-one text-base md:text-md hover:bg-gold py-3 px-16">Lunch</a>
+                <a href="#afternoon" class="julius-sans-one text-base md:text-md hover:bg-gold py-3 px-16">Afternoon</a>
+                <a href="#dinner" class="julius-sans-one text-base md:text-md hover:bg-gold py-3 px-16">Dinner</a>
+                <a href="#drinks" class="julius-sans-one text-base md:text-md hover:bg-gold py-3 px-16">Drinks</a>
+                <a href="#findUs" class="julius-sans-one text-base md:text-md hover:bg-gold py-3 px-16">Find Us</a>
+            </div>
+        <img src="imagesHamburger\iphone16_sideMenu_lower.webp" alt="Side menu of Ginkjo luxury Japanese restaurant in Luxembourg on mobile" class="w-full h-auto" loading="lazy">
+    </div>
 </nav>
