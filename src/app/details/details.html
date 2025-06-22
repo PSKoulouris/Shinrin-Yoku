@@ -1,3 +1,48 @@
+<div *ngIf="plantData" class="bg-black text-white px-6 md:px-20 lg:px-32 py-12 h-full">
+  <article class="bg-black shadow-lg rounded-lg p-6 grid grid-cols-1 lg:grid-cols-12 gap-30">
+
+    <!-- Left 6 columns: Plant Image -->
+    <div class="lg:col-span-6 flex justify-center">
+      <img
+        [src]="plantData.default_image?.medium_url"
+        [alt]="plantData.common_name"
+        class="w-full  object-cover rounded-lg shadow-md" />
+    </div>
+
+    <!-- Right 6 columns: Plant Details -->
+    <div class="lg:col-span-6">
+      <h1 class="font-montserrat textSizeh2 tracking-wide mb-6 text-center lg:text-left">
+        {{ plantData.common_name }}
+      </h1>
+
+      <ul class="space-y-3 font-roboto textSizep leading-relaxed">
+        <li><strong class="text-gold-500">Scientific Name:</strong> {{ plantData.scientific_name?.join(', ') }}</li>
+        <li><strong class="text-gold-500">Family:</strong> {{ plantData.family }}</li>
+        <li><strong class="text-gold-500">Description:</strong> {{ plantData.description }}</li>
+        <li><strong class="text-gold-500">Hardiness (Min - Max):</strong> {{ plantData.hardiness.min }} – {{ plantData.hardiness.max }}</li>
+        <li><strong class="text-gold-500">Light Requirements:</strong> {{ plantData.sunlight }}</li>
+        <li><strong class="text-gold-500">Water Requirements:</strong> {{ plantData.watering }}</li>
+        <li><strong class="text-gold-500">Pruning:</strong> {{ plantData.pruning_month }}</li>
+        <li><strong class="text-gold-500">Growth Rate:</strong> {{ plantData.growth_rate }}</li>
+        <li><strong class="text-gold-500">Poisonous to Humans:</strong> {{ plantData.poisonous_to_humans ? 'Yes' : 'No' }}</li>
+        <li><strong class="text-gold-500">Poisonous to Animals:</strong> {{ plantData.poisonous_to_animals ? 'Yes' : 'No' }}</li>
+      </ul>
+
+      <!-- Back Button -->
+      <button (click)="goBack()" class="mt-8 text-white font-roboto textSizep px-6 py-2 border border-gold-500 rounded-lg hover:bg-gold-500 transition duration-200 ease-in-out">
+        Back to All Plants
+      </button>
+    </div>
+
+  </article>
+</div>
+
+
+
+
+
+
+<!--
 <div *ngIf="plantData">
     <h3>{{ plantData.common_name }}</h3>
     <img [src]="plantData.default_image?.medium_url" alt="{{ plantData.common_name }}" />
@@ -13,3 +58,4 @@
     <p><strong>Poisonous to animals:</strong> {{ plantData.poisonous_to_animals ? 'Poisonous to animals' : 'Not poisonous to animals' }}</p>
 </div>
 
+-->
