@@ -28,6 +28,10 @@
   .bg-gold-500 {
     background-color: var(--gold-500);
   }
+
+  .border-gold-500 {
+    border-color: var(--gold-500);
+  }
    .hover\:text-gold-500:hover {
     color: var(--gold-500);
   /* Add more classes as needed */
