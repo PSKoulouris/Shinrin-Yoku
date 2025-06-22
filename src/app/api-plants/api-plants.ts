@@ -40,11 +40,17 @@ export class ApiPlants {
 
         this.plantsList = data["data"].map((plant:any) => ({
            id: plant.id,
-          image: plant.default_image?.small_url,
-          common_name: plant.common_name
+           image: plant.default_image?.small_url,
+           common_name: this.capitalizeFirstLetter(plant.common_name)
         }));
       }
     })
+}
+
+//Capitalize the first letter of the Flower's name:
+private capitalizeFirstLetter(name: string): string {
+  if (!name) return '';
+  return name.charAt(0).toUpperCase() + name.slice(1);
 }
 
  //Click button read more to open the detail page for each plant:

@@ -1,9 +1,13 @@
 <section class="bg-main-picture h-screen -mt-34">
     <div class = "grid grid-cols-12">
-        <div class = "col-span-6">
-            <h1 class="font-montserrat textSizeh1 text-white text-4xl font-bold pt-54 pl-26">
-                Bring the calm of the forest into your home.
+        <div class = "col-span-6 flex flex-col space-y-16">
+            <h1 class="font-montserrat text-white text-bold pt-54 pl-26 leading-tight textSizeh1">
+                Bring forest's calm into your home
             </h1>
+            <button (click)="scrollToAbout()"
+                class="hidden bg-[rgba(0,0,0,0.25)] lg:block font-roboto textSizeh6 text-white px-36 lg:px-16 lg:mx-28 py-3 mt-8 border border-gold-500 rounded-lg hover:bg-gold-500 text-center inline-block cursor-pointer">
+                 Read Our Story
+            </button>
         </div>
         <div class = "col-span-6">
         </div>
@@ -13,7 +17,7 @@
 
 <!-- Section 2: About -->
 
-<section id="about" class="w-full pb-16 lg:pb-0 lg:h-screen bg-black lg:overflow-hidden">
+<section id="about" #aboutSection class="w-full lg:pb-0 lg:h-screen bg-black lg:overflow-hidden">
     <div class="grid grid-cols-1 gap-16 lg:gap-0 lg:grid-cols-12">
         <div class=" col-span-1 lg:col-span-6 flex flex-col items-center justify-center order-2">
             <h2 class=" text-white font-montserrat md:text-8xl lg:textSizeh2 text-center">Shinrin-yoku</h2>
@@ -26,9 +30,11 @@
                 </p>
             </div>
             <!--menu desktop -->
-            <a href="#" class="hidden lg:block">
-                <button class="font-roboto textSizeh6 text-white px-36 lg:px-48 py-3 mt-8 border border-gold-500 rounded-lg hover:bg-gold-500">View Plant Collection</button>
+            <a routerLink="/plants"
+                class="hidden lg:block font-roboto textSizeh6 text-white px-36 lg:px-48 py-3 mt-8 border border-gold-500 rounded-lg hover:bg-gold-500 text-center inline-block">
+                View Plant Collection
             </a>
+
             <!-- menu smartphone -->
             <a href="menu_smartphone\smartphone-ginkjo-lunch-menu-japanese-restaurant-luxembourg.pdf" target="_blank" class="block lg:hidden">
               <button class="julius-sans-one text-base text-white px-28 md:px-36 py-3 mt-16 border border-gold rounded-lg hover:bg-gold-500"></button>

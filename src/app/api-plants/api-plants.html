@@ -1,19 +1,30 @@
+<section class="bg-black">
+
+
+
 <h1 class="font-montserrat text-2xl">API PLANT COMPONENT are interested in a structured file for</h1>
 <h1 class = "font-roboto">Font Roboto fpr paragraphs</h1>
 
 
- @for(plant of plantsList; track plant.id){
+<div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6 px-32 w-full mx-auto ">
+  @for(plant of plantsList; track plant.id){
+ <article class="bg-black flex flex-col items-center justify-between h-full rounded-lg overflow-hidden shadow-lg p-6 min-h-[28rem] border-t border-b border-gold-500">
+  <img [src]="plant.image" alt="Plant image" class="w-full aspect-[4/3] object-cover rounded-lg" />
 
-<article>
-  <img [src]="plant.image" alt="Plant image" />
-  <h3>{{ plant.common_name }}</h3>
-  <p>ID: {{ plant.id }}</p>
-  
-  <button (click)="goToDetails(plant.id)"
-    class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">
-    Read More
+  <h3 class="font-montserrat text-white textSizeh6 font-semibold mt-4 text-center tracking-wide">
+    {{ plant.common_name }}
+  </h3>
+
+  <button
+    (click)="goToDetails(plant.id)"
+    class="mt-4 text-white font-roboto textSizep px-6 py-2 border border-gold-500 rounded-lg hover:bg-gold-500 transition duration-200 ease-in-out">
+    Discover This Plant
   </button>
-
 </article>
-
 }
+</div>
+
+
+
+
+</section>
