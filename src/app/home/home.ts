@@ -10,8 +10,8 @@ import { NgIf } from '@angular/common';
   templateUrl: './home.html',
   styleUrls: ['./home.css']
 })
+
 export class Home {
-  
   @ViewChild('aboutSection') aboutSection!: ElementRef;
   @ViewChild('contactSection') contactSection!: ElementRef;
 
@@ -21,25 +21,32 @@ export class Home {
     message: ''
   };
 
+  submissionSuccess = false; // ✅ success flag
+
   scrollToAbout(): void {
     this.aboutSection.nativeElement.scrollIntoView({ behavior: 'smooth' });
   }
+
   scrollToContact(): void {
     this.contactSection.nativeElement.scrollIntoView({ behavior: 'smooth' });
   }
-  
-  
 
-  //form validation
   onSubmit(form: any): void {
     if (form.valid) {
       console.log('Form submitted', this.formData);
+      this.submissionSuccess = true;
+
+      // Optionally clear form:
+      form.resetForm(); // resets both data + form state
+      this.submissionSuccess = true;
+
+      // Optional: hide message after a few seconds
+      setTimeout(() => {
+        this.submissionSuccess = false;
+      }, 5000);
     } else {
-      form.control.markAllAsTouched();  // show validation errors
+      form.control.markAllAsTouched();
+      this.submissionSuccess = false;
     }
   }
 }
-
-
-
-
