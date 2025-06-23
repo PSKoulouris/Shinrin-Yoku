@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ViewChild, ElementRef } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import {RouterLink} from '@angular/router';
 import { Router } from '@angular/router';
@@ -13,6 +13,19 @@ import { CommonModule } from '@angular/common';
 
 
 export class ApiPlants {
+
+   @ViewChild('plantsSection') plantsSection!: ElementRef;
+
+  scrollToPlants(): void {
+  const offset = 150; // height of your sticky navbar in pixels (adjust as needed)
+  const elementPosition = this.plantsSection.nativeElement.getBoundingClientRect().top + window.pageYOffset;
+  const offsetPosition = elementPosition - offset;
+
+  window.scrollTo({
+    top: offsetPosition,
+    behavior: 'smooth'
+  });
+}
 
   
    private apiURL = 'data/data_details.json'
