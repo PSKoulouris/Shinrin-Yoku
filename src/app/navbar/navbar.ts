@@ -9,4 +9,19 @@ import { RouterLink } from '@angular/router';
 })
 export class Navbar {
 
+  scrollToAbout(): void {
+    const aboutSection = document.getElementById('about');
+    if (aboutSection) {
+      aboutSection.scrollIntoView({ behavior: 'smooth' });
+    }
+  }
+
+  scrollToContact(): void {
+  const contactSection = document.getElementById('contactUs');
+  if (contactSection) {
+    contactSection.scrollIntoView({ behavior: 'smooth' });
+  }
+}
+
+
 }

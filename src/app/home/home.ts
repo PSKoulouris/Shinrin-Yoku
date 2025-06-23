@@ -11,7 +11,9 @@ import { NgIf } from '@angular/common';
   styleUrls: ['./home.css']
 })
 export class Home {
+  
   @ViewChild('aboutSection') aboutSection!: ElementRef;
+  @ViewChild('contactSection') contactSection!: ElementRef;
 
   formData = {
     name: '',
@@ -22,7 +24,13 @@ export class Home {
   scrollToAbout(): void {
     this.aboutSection.nativeElement.scrollIntoView({ behavior: 'smooth' });
   }
+  scrollToContact(): void {
+    this.contactSection.nativeElement.scrollIntoView({ behavior: 'smooth' });
+  }
+  
+  
 
+  //form validation
   onSubmit(form: any): void {
     if (form.valid) {
       console.log('Form submitted', this.formData);
