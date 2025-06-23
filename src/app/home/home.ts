@@ -1,19 +1,37 @@
-import { Component } from '@angular/core';
+import { Component, ViewChild, ElementRef } from '@angular/core';
+import { FormsModule } from '@angular/forms';
 import { RouterLink } from '@angular/router';
-import { ViewChild, ElementRef } from '@angular/core';
+import { NgIf } from '@angular/common';
 
 @Component({
   selector: 'app-home',
-  imports: [RouterLink],
+  standalone: true,
+  imports: [FormsModule, RouterLink, NgIf],
   templateUrl: './home.html',
-  styleUrl: './home.css'
+  styleUrls: ['./home.css']
 })
 export class Home {
-
   @ViewChild('aboutSection') aboutSection!: ElementRef;
+
+  formData = {
+    name: '',
+    email: '',
+    message: ''
+  };
 
   scrollToAbout(): void {
     this.aboutSection.nativeElement.scrollIntoView({ behavior: 'smooth' });
   }
 
+  onSubmit(form: any): void {
+    if (form.valid) {
+      console.log('Form submitted', this.formData);
+    } else {
+      form.control.markAllAsTouched();  // show validation errors
+    }
+  }
 }
+
+
+
+

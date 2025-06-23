@@ -3,10 +3,11 @@ import { Router, NavigationEnd, RouterOutlet } from '@angular/router';
 import { ApiPlants } from './api-plants/api-plants';
 import { Navbar } from './navbar/navbar';
 import { Footer } from './footer/footer';
+import { FormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, Navbar, Footer],
+  imports: [RouterOutlet, Navbar, Footer, FormsModule],
   templateUrl: './app.html',
   styleUrls: ['./app.css']  // note: it's 'styleUrls', plural
 })
@@ -23,3 +24,5 @@ export class App implements OnInit {
     });
   }
 }
+
+

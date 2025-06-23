@@ -96,5 +96,30 @@
   font-size: 0.563rem;
 }
 
+/* Medium screens (md: ≥768px) */
+  @media (min-width: 768px) {
+    .md\:textSizeh1 { font-size: 5.61rem; }
+    .md\:textSizeh2 { font-size: 4.21rem; }
+    .md\:textSizeh3 { font-size: 3.16rem; }
+    .md\:textSizeh4 { font-size: 2.37rem; }
+    .md\:textSizeh5 { font-size: 1.78rem; }
+    .md\:textSizeh6 { font-size: 1.33rem; }
+    .md\:textSizep { font-size: 1rem; }
+    .md\:textSizesmall { font-size: 0.75rem; }
+    .md\:textSize0 { font-size: 0.563rem; }
+  }
+
+  /* Large screens (lg: ≥1024px) */
+  @media (min-width: 1024px) {
+    .lg\:textSizeh1 { font-size: 5.61rem; }
+    .lg\:textSizeh2 { font-size: 4.21rem; }
+    .lg\:textSizeh3 { font-size: 3.16rem; }
+    .lg\:textSizeh4 { font-size: 2.37rem; }
+    .lg\:textSizeh5 { font-size: 1.78rem; }
+    .lg\:textSizeh6 { font-size: 1.33rem; }
+    .lg\:textSizep { font-size: 1rem; }
+    .lg\:textSizesmall { font-size: 0.75rem; }
+    .lg\:textSize0 { font-size: 0.563rem; }
+  }
 }
 
