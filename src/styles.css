@@ -16,12 +16,19 @@
   --gold-800: #4c3a12;
   --gold-900: #1a0f03;
 
+  --gold-500-alpha-50: rgba(226, 182, 58, 0.2); /* gold 50% transparent */
+
   --font-montserrat: 'Montserrat', sans-serif;
   --font-roboto: 'Roboto', sans-serif;
 }
 
 @layer utilities {
   /* Create utility classes that use the CSS vars */
+
+  .hover\:bg-gold-500:hover {
+    background-color: var(--gold-500-alpha-50);
+  }
+
   .text-gold-500 {
     color: var(--gold-500);
   }

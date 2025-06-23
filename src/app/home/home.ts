@@ -1,5 +1,5 @@
-import { Component, ViewChild, ElementRef } from '@angular/core';
-import { FormsModule } from '@angular/forms';
+import { Component, ViewChild, ElementRef, inject, ChangeDetectorRef } from '@angular/core';
+import { FormsModule, NgForm } from '@angular/forms';
 import { RouterLink } from '@angular/router';
 import { NgIf } from '@angular/common';
 
@@ -8,10 +8,12 @@ import { NgIf } from '@angular/common';
   standalone: true,
   imports: [FormsModule, RouterLink, NgIf],
   templateUrl: './home.html',
-  styleUrls: ['./home.css']
+  styleUrls: ['./home.css'],
+  // Optional: changeDetection: ChangeDetectionStrategy.OnPush
 })
-
 export class Home {
+  private cdr = inject(ChangeDetectorRef);
+
   @ViewChild('aboutSection') aboutSection!: ElementRef;
   @ViewChild('contactSection') contactSection!: ElementRef;
 
@@ -21,7 +23,7 @@ export class Home {
     message: ''
   };
 
-  submissionSuccess = false; // ✅ success flag
+  submissionSuccess = false;
 
   scrollToAbout(): void {
     this.aboutSection.nativeElement.scrollIntoView({ behavior: 'smooth' });
@@ -31,22 +33,23 @@ export class Home {
     this.contactSection.nativeElement.scrollIntoView({ behavior: 'smooth' });
   }
 
-  onSubmit(form: any): void {
+  onSubmit(form: NgForm): void {
     if (form.valid) {
       console.log('Form submitted', this.formData);
       this.submissionSuccess = true;
 
-      // Optionally clear form:
-      form.resetForm(); // resets both data + form state
-      this.submissionSuccess = true;
+      form.resetForm();
 
-      // Optional: hide message after a few seconds
       setTimeout(() => {
         this.submissionSuccess = false;
       }, 5000);
     } else {
-      form.control.markAllAsTouched();
+      // Mark all controls touched to trigger validation messages immediately
+      form.form.markAllAsTouched();
       this.submissionSuccess = false;
+
+      // Manually trigger change detection (important if OnPush is used)
+      this.cdr.detectChanges();
     }
   }
 }

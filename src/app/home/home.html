@@ -1,45 +1,51 @@
 <section class="bg-main-picture h-screen -mt-34">
-    <div class = "grid grid-cols-12">
-        <div class = "col-span-6 flex flex-col space-y-16">
-            <h1 class="font-montserrat text-white text-bold pt-54 pl-26 leading-tight lg:textSizeh1">
-                Bring forest's calm into your home
-            </h1>
-            <button (click)="scrollToAbout()"
-                class="bg-[rgba(0,0,0,0.25)] lg:block font-roboto textSizeh6 text-white px-36 lg:px-16 lg:mx-28 py-3 mt-8 border border-gold-500 rounded-lg hover:bg-gold-500 text-center inline-block cursor-pointer">
-                 Read Our Story
-            </button>
-        </div>
-        <div class = "col-span-6">
-        </div>
+  <div class="grid grid-cols-1 lg:grid-cols-12 h-full">
+    
+    <!-- Left Column -->
+    <div class="lg:col-span-6 flex flex-col justify-center items-center text-center lg:items-start lg:text-left space-y-8 px-6 md:px-12 py-12">
+      
+      <h1 class="font-montserrat text-white font-bold leading-tight textSizeh3 md:textSizeh2 lg:textSizeh1">
+        Bring forest's calm into your home
+      </h1>
+
+   <button
+  (click)="scrollToAbout()"
+  class="bg-[rgba(0,0,0,0.25)] font-roboto textSizeh6 text-white 
+         px-6 md:px-12 py-3 border border-gold-500 rounded-lg 
+         hover:bg-gold-500 lg:px-[248px] whitespace-nowrap">
+  Read Our Story
+</button>
+
     </div>
+
+    <!-- Right Column -->
+    <div class="lg:col-span-6"></div>
+  </div>
 </section>
+
+
 
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 <!-- Section 2: About -->
 
-<section id="about" #aboutSection class="w-full lg:pb-0 lg:h-screen bg-black lg:overflow-hidden">
+<section id="about" #aboutSection class="w-full lg:pb-0 lg:h-screen bg-black">
     <div class="grid grid-cols-1 gap-16 lg:gap-0 lg:grid-cols-12">
         <div class=" col-span-1 lg:col-span-6 flex flex-col items-center justify-center order-2">
-            <h2 class=" text-white font-montserrat lg:textSizeh1">Shinrin-Yoku</h2>
+            <h2 class=" text-white font-montserrat textSizeh2 lg:textSizeh1">Shinrin-Yoku</h2>
             <div class ="mt-16 ml-8">
-                <p class="text-white font-roboto text-base md:text-md lg:textSizep px-[17px] items-center max-w-[305px] md:max-w-[355px] lg:max-w-[600px]">
+                <p class="text-white font-roboto textSizep px-[17px] items-center max-w-[425px] md:max-w-[450px] lg:max-w-[600px]">
                     Shinrin-yoku, meaning “forest bathing” in Japanese, is a practice rooted in the Japanese philosophy of connecting deeply with nature to promote well-being. More than just a walk in the woods, it’s an immersive experience that encourages you to slow down and absorb the calming atmosphere of the forest.
                 </p>
-                <p class="text-white font-roboto text-base mt-4 md:text-md lg:textSizep px-[17px] items-center max-w-[305px] md:max-w-[355px] lg:max-w-[625px]">
+                <p class="text-white font-roboto mt-4 textSizep px-[17px] items-center max-w-[425px] md:max-w-[450px] lg:max-w-[625px]">
                     At our plant store, we bring the essence of Shinrin-yoku into your everyday life by offering a thoughtfully curated selection of plants that transform your home or workspace into a peaceful, natural retreat. Each plant is grown and cared for with the utmost botanical expertise and attention, reflecting our deep respect for nature. Whether you’re creating a serene corner or arranging a lush green environment, our plants are chosen to inspire calm, connection, and a little bit of forest where you are.
                 </p>
             </div>
-            <!--menu desktop -->
+            <!--View plant desktop -->
             <a routerLink="/plants"
-                class="hidden lg:block font-roboto textSizeh6 text-white px-36 lg:px-46 py-3 mt-8 border border-gold-500 rounded-lg hover:bg-gold-500 text-center inline-block">
+                class="lg:block font-roboto textSizeh6 text-white px-22 md:px-28 lg:px-46 py-3 mt-8 border border-gold-500 rounded-lg hover:bg-gold-500 text-center inline-block">
                 View Plant Collection
             </a>
-
-            <!-- menu smartphone -->
-            <a href="menu_smartphone\smartphone-ginkjo-lunch-menu-japanese-restaurant-luxembourg.pdf" target="_blank" class="block lg:hidden">
-              <button class="julius-sans-one text-base text-white px-28 md:px-36 py-3 mt-16 border border-gold rounded-lg hover:bg-gold-500"></button>
-          </a>
         </div>
 
         <div class="col-span-1 lg:col-span-6 flex justify-end order-1">
@@ -50,8 +56,8 @@
               <!-- Tablet: 768px and above -->
               <source srcset="images/tablet/aboutTablet.jpg" media="(min-width: 768px)">
               <!-- Smartphone: Below 768px (default fallback) -->
-                  <img class="w-full h-auto" src="imagesBody_mobile\Lunch_810_1512x1964_89_desktop_optimized_mobile.webp" 
-                   alt="traditional and modern ramen at japanese restaurant Ginkjo Luxembourg" 
+                  <img class="w-full h-auto" src="images/desktop/aboutDesktop.jpg"
+                   alt="" 
                    loading="lazy">
             </picture>
         </div>
@@ -63,18 +69,18 @@
 <!--Contact form-->
 
 
-<section id="contactUs" #contactSection class="w-full h-screen bg-black overflow-hidden">
+<section id="contactUs" #contactSection class="w-full lg:h-screen mb-16 md:mt-16 bg-black">
   <div class="grid grid-cols-1 lg:grid-cols-12">
 
     <!-- Left column: Heading + Form -->
     <div class="col-span-1 lg:col-span-6 flex flex-col justify-center items-center order-2 lg:order-1 px-6 lg:px-16">
       <div class="w-full max-w-[320px] md:max-w-[400px] lg:max-w-[600px]">
 
-        <h1 class="text-white font-montserrat text-3xl md:text-4xl lg:textSizeh1 mb-6">Contact Us</h1>
+        <h1 class="text-white font-montserrat textSizeh2 lg:textSizeh1 mb-6">Contact Us</h1>
 
         <div class="flex flex-col items-start w-full mt-16">
           <div class="flex justify-between items-center w-full mb-2">
-            <p class="text-white font-roboto text-base md:text-md lg:textSizeh6">Tel: +352 337506</p>
+            <p class="text-white font-roboto textSizeh6">Tel: +352 337506</p>
             <span id="feedback" class="font-roboto text-red-500 text-sm md:text-md lg:textSizep"> </span>
           </div>
 
@@ -92,30 +98,26 @@
       #name="ngModel"
       class="font-roboto border-b border-white text-white placeholder:text-gray-400 text-base md:text-md lg:textSizep bg-black focus:text-white outline-none py-2"
     />
-    <!-- Name -->
-    <div *ngIf="name.invalid && (name.dirty || name.touched)" class="text-red-500 textSizesmall">
-        <span *ngIf="name.errors?.['required']">Field missing</span>
+    <div *ngIf="name.invalid && name.touched" class="text-red-500 textSizesmall">
+      <span *ngIf="name.errors?.['required']">Field missing</span>
     </div>
 
-   <!-- Email Input -->
+    <!-- Email Input -->
     <input
-        type="email"
-        id="email"
-        name="email"
-        placeholder="Email"
-        required
-        email
-        [(ngModel)]="formData.email"
-        #email="ngModel"
-        class="font-roboto border-b border-white text-white placeholder:text-gray-400 text-base md:text-md lg:textSizep bg-black focus:text-white outline-none py-2"
+      type="email"
+      id="email"
+      name="email"
+      placeholder="Email"
+      required
+      email
+      [(ngModel)]="formData.email"
+      #email="ngModel"
+      class="font-roboto border-b border-white text-white placeholder:text-gray-400 text-base md:text-md lg:textSizep bg-black focus:text-white outline-none py-2"
     />
-
-<!-- Email Error Messages -->
-    <div *ngIf="email.invalid && (email.dirty || email.touched)" class="text-red-500 textSizesmall">
-        <span *ngIf="email.errors?.['required']">Field missing</span>
-        <span *ngIf="email.errors?.['email']">Email format incorrect</span>
+    <div *ngIf="email.invalid && email.touched" class="text-red-500 textSizesmall">
+      <span *ngIf="email.errors?.['required']">Field missing</span>
+      <span *ngIf="email.errors?.['email']">Email format incorrect</span>
     </div>
-
 
     <!-- Message Textarea -->
     <textarea
@@ -128,9 +130,8 @@
       #message="ngModel"
       class="font-roboto border-b border-white placeholder:text-gray-400 text-base md:text-md lg:textSizep text-white bg-black focus:text-white outline-none py-2 resize-none"
     ></textarea>
-    <!-- Message -->
-    <div *ngIf="message.invalid && (message.dirty || message.touched)" class="text-red-500 textSizesmall mb-4">
-        <span *ngIf="message.errors?.['required']">Field missing</span>
+    <div *ngIf="message.invalid && message.touched" class="text-red-500 textSizesmall">
+      <span *ngIf="message.errors?.['required']">Field missing</span>
     </div>
 
     <!-- Submit Button -->
@@ -140,26 +141,33 @@
       value="Send"
       class="font-roboto text-white text-base md:text-md lg:textSizeh6 px-8 py-3 border border-gold-500 rounded-lg hover:bg-gold-500 transition duration-200 cursor-pointer"
       [disabled]="contactForm.invalid"
-      data-sitekey="$siteKey"
-      data-callback="onRecaptchaSuccess"
     />
+
+    <!-- Success Message -->
     <div *ngIf="submissionSuccess" class="text-white textSizep mt-2">
-  Thank you for your message!
-</div>
+      Thank you for your message!
+    </div>
   </div>
 </form>
+
+
         </div>
       </div>
     </div>
 
     <!-- Right column: Image -->
     <div class="col-span-1 lg:col-span-6 flex justify-center items-center order-1 lg:order-2">
-      <img
-        class="h-full object-cover"
-        src="images/desktop/contactDesktop.jpg"
-        alt="contactImage"
-        loading="lazy"
-      />
+
+      <picture>
+              <!-- Desktop: 1024px and above -->
+                  <source srcset="images/desktop/contactDesktop.jpg" media="(min-width: 1024px)">
+              <!-- Tablet: 768px and above -->
+              <source srcset="images/tablet/contactTablet.jpg" media="(min-width: 768px)">
+              <!-- Smartphone: Below 768px (default fallback) -->
+                  <img class="w-full h-auto" src="images/desktop/contactDesktop.jpg"
+                   alt="" 
+                   loading="lazy">
+            </picture>
     </div>
 
   </div>
