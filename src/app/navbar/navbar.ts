@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterLink } from '@angular/router';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-navbar',
@@ -9,19 +10,33 @@ import { RouterLink } from '@angular/router';
 })
 export class Navbar {
 
-  scrollToAbout(): void {
-    const aboutSection = document.getElementById('about');
-    if (aboutSection) {
-      aboutSection.scrollIntoView({ behavior: 'smooth' });
+  constructor(private router: Router) {}
+
+  scrollToSection(sectionId: string): void {
+    if (this.router.url !== '/') {
+      this.router.navigateByUrl('/').then(() => {
+        setTimeout(() => {
+          const section = document.getElementById(sectionId);
+          if (section) {
+            section.scrollIntoView({ behavior: 'smooth' });
+          }
+        }, 100); // slight delay to ensure DOM is rendered
+      });
+    } else {
+      const section = document.getElementById(sectionId);
+      if (section) {
+        section.scrollIntoView({ behavior: 'smooth' });
+      }
     }
   }
 
-  scrollToContact(): void {
-  const contactSection = document.getElementById('contactUs');
-  if (contactSection) {
-    contactSection.scrollIntoView({ behavior: 'smooth' });
+  scrollToAbout(): void {
+    this.scrollToSection('about');
   }
-}
+
+  scrollToContact(): void {
+    this.scrollToSection('contactUs');
+  }
 
 
 }
