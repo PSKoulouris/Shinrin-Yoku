@@ -1,12 +1,11 @@
 import { Component, ViewChild, ElementRef, inject, ChangeDetectorRef } from '@angular/core';
 import { FormsModule, NgForm } from '@angular/forms';
 import { RouterLink } from '@angular/router';
-import { NgIf } from '@angular/common';
 
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [FormsModule, RouterLink, NgIf],
+  imports: [FormsModule, RouterLink],
   templateUrl: './home.html',
   styleUrls: ['./home.css'],
   // Optional: changeDetection: ChangeDetectionStrategy.OnPush
@@ -34,7 +33,7 @@ export class Home {
   };
 
   submissionSuccess = false;
-  
+
   onSubmit(form: NgForm): void {
     if (form.valid) {
       console.log('Form submitted', this.formData);
