@@ -17,14 +17,6 @@ export class Home {
   @ViewChild('aboutSection') aboutSection!: ElementRef;
   @ViewChild('contactSection') contactSection!: ElementRef;
 
-  formData = {
-    name: '',
-    email: '',
-    message: ''
-  };
-
-  submissionSuccess = false;
-
   scrollToAbout(): void {
     this.aboutSection.nativeElement.scrollIntoView({ behavior: 'smooth' });
   }
@@ -33,6 +25,16 @@ export class Home {
     this.contactSection.nativeElement.scrollIntoView({ behavior: 'smooth' });
   }
 
+  //Form submission
+
+  formData = {
+    name: '',
+    email: '',
+    message: ''
+  };
+
+  submissionSuccess = false;
+  
   onSubmit(form: NgForm): void {
     if (form.valid) {
       console.log('Form submitted', this.formData);
