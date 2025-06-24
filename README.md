@@ -1,4 +1,4 @@
-ShinrinYoku
+#Shinrin-Yoku
 
 Link: https://shinrin-yoku.netlify.app
 
