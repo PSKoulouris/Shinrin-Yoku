@@ -86,6 +86,8 @@
 
      <form netlify 
         name="contact"
+        #contactForm="ngForm" 
+        (ngSubmit)="onSubmit(contactForm)" novalidate 
         class="w-full mt-8">
       
         <div class="flex flex-col space-y-6">
@@ -96,9 +98,13 @@
             name="name"
             placeholder="Name"
             required
+            [(ngModel)]="formData.name"
+            #name="ngModel"
             class="font-roboto border-b border-white text-white placeholder:text-gray-400 text-base md:text-md lg:textSizep bg-black focus:text-white outline-none py-2"
           />
-
+        <div *ngIf="name.invalid && name.touched" class="text-red-500 textSizesmall">
+            <span *ngIf="name.errors?.['required']">Field missing</span>
+        </div>
 
     <!-- Email Input -->
         <input
@@ -108,9 +114,14 @@
           placeholder="Email"
           required
           email
+          [(ngModel)]="formData.email"
+          #email="ngModel"
           class="font-roboto border-b border-white text-white placeholder:text-gray-400 text-base md:text-md lg:textSizep bg-black focus:text-white outline-none py-2"
         />
-
+        <div *ngIf="email.invalid && email.touched" class="text-red-500 textSizesmall">
+            <span *ngIf="email.errors?.['required']">Field missing</span>
+            <span *ngIf="email.errors?.['email']">Email format incorrect</span>
+        </div>
 
     <!-- Message Textarea -->
         <textarea
@@ -119,17 +130,26 @@
           placeholder="Enter your message"
           rows="4"
           required
+          [(ngModel)]="formData.message"
+          #message="ngModel"
           class="font-roboto border-b border-white placeholder:text-gray-400 text-base md:text-md lg:textSizep text-white bg-black focus:text-white outline-none py-2 resize-none">
         </textarea>
-
+        <div *ngIf="message.invalid && message.touched" class="text-red-500 textSizesmall">
+            <span *ngIf="message.errors?.['required']">Field missing</span>
+        </div>
 
     <!-- Submit Button -->
         <input
           type="submit"
           value="Send"
           class="font-roboto text-white text-base md:text-md lg:textSizeh6 px-8 py-3 border border-gold-500 rounded-lg hover:bg-gold-500 transition duration-200 cursor-pointer"
+          [disabled]="contactForm.invalid"
         />
 
+    <!-- Success Message -->
+        <div *ngIf="submissionSuccess" class="text-white textSizep mt-2">
+          Thank you for your message!
+        </div>
     </div>
 </form>
 
