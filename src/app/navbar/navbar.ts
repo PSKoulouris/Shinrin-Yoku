@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ElementRef, ViewChild } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { Router } from '@angular/router';
 
@@ -30,13 +30,29 @@ export class Navbar {
     }
   }
 
+  //Hamburger menu Logic
+
+  @ViewChild('menuPanel') menuPanel!: ElementRef;
+  @ViewChild('hamburgerBtn') hamburgerBtn!: ElementRef;
+  @ViewChild('crossBtn') crossBtn!: ElementRef;
+
+  openMenu(): void {
+    this.menuPanel.nativeElement.classList.remove('-translate-x-full');
+    this.hamburgerBtn.nativeElement.classList.add('hidden');
+    this.crossBtn.nativeElement.classList.remove('hidden');
+  }
+
+  closeMenu(): void {
+    this.menuPanel.nativeElement.classList.add('-translate-x-full');
+    this.crossBtn.nativeElement.classList.add('hidden');
+    this.hamburgerBtn.nativeElement.classList.remove('hidden');
+  }
+
   scrollToAbout(): void {
-    this.scrollToSection('about');
-  }
+  this.scrollToSection('about');
+}
 
-  scrollToContact(): void {
-    this.scrollToSection('contactUs');
-  }
-
-
+scrollToContact(): void {
+  this.scrollToSection('contact');
+}
 }
