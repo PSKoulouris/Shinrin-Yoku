@@ -83,22 +83,12 @@
             <span id="feedback" class="font-roboto text-red-500 text-sm md:text-md lg:textSizep"> </span>
           </div>
 
-      <!-- Hidden dummy form for Netlify to pick up -->
-<form name="contact" netlify hidden>
-  <input type="text" name="name" />
-  <input type="email" name="email" />
-  <textarea name="message"></textarea>
-</form>    
-
      <form netlify 
         name="contact"
         #contactForm="ngForm" 
         (ngSubmit)="onSubmit(contactForm)" novalidate 
         class="w-full mt-8">
       
-      <!-- Required for Netlify to recognize this submission -->
-  <input type="hidden" name="form-name" value="contact" />
-
         <div class="flex flex-col space-y-6">
     <!-- Name Input -->
           <input
