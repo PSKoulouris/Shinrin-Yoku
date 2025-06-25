@@ -1,6 +1,6 @@
 # Shinrin-Yoku
 
-![Logo](Shinrin-yoku/public/Logo_shirinYoku_2.png)
+![Logo](Logo_shirinYoku_2.png)
 
 Link: https://shinrin-yoku.netlify.app
 
