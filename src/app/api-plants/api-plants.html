@@ -1,18 +1,18 @@
 
 <main>
-<section class="w-full lg:pb-0 lg:h-screen bg-black lg:overflow-hidden -mt-34">
+<section class="w-full lg:pb-0 lg:h-screen bg-black lg:overflow-hidden">
     <div class="grid grid-cols-1 gap-16 lg:gap-0 lg:grid-cols-12">
         <div class=" col-span-1 lg:col-span-6 flex flex-col items-center justify-center order-2">
-            <h2 class=" text-white font-montserrat textSizeh2 lg:textSizeh1 text-center">Indoor Plants</h2>
+            <h2 class="text-white font-montserrat textSizeh3 md:textSizeh2 lg:textSizeh1 text-center">Indoor Plants</h2>
             <div class ="mt-16">
-                <p class="text-white font-roboto text-sizep px-[17px] items-center max-w-[450px] md:max-w-[475px] lg:max-w-[600px]">
+                <p class="text-white font-roboto text-sizep px-[17px] items-center max-w-[350px] md:max-w-[475px] lg:max-w-[625px]">
                     At our store, we proudly present a diverse and carefully curated selection of indoor plants chosen not only for their beauty, but also for their adaptability to various living spaces. Each plant comes with a detailed profile that includes essential care guidelines, ensuring you find the right match for your home’s environment. Whether you live in a sunlit loft or a cozy apartment with minimal daylight, we provide the information needed to help your plant thrive.
                 </p>
-                <p class="text-white font-roboto mt-4 text-sizep px-[17px] items-center max-w-[450px] md:max-w-[475px] lg:max-w-[625px]">
+                <p class="text-white font-roboto mt-4 text-sizep px-[17px] items-center max-w-[350px] md:max-w-[475px] lg:max-w-[625px]">
                     We also include comprehensive watering instructions tailored to each species, from low-maintenance succulents that require infrequent watering to tropical plants that enjoy higher humidity levels. Additionally, for those with pets or children, our in-store and online plant descriptions clearly indicate whether a plant is animal-friendly or potentially toxic. This way, you can make an informed and safe choice without compromising on style or greenery. Our goal is to make indoor gardening simple, educational, and accessible—inviting the calming energy of nature into your daily life with confidence and clarity.
                 </p>
                 <button (click)="scrollToPlants()"
-                class="lg:block font-roboto textSizeh6 text-white px-30 md:px-34 lg:px-52 lg:mx-4 py-3 mt-8 border border-gold-500 rounded-lg hover:bg-gold-500 text-center inline-block cursor-pointer">
+                class="block font-roboto textSizeh6 text-white py-3 mt-16 px-16 md:px-34 lg:px-52 mx-auto border border-gold-500 rounded-lg hover:bg-gold-500 text-center cursor-pointer">
                  Discover Our Plants
             </button>
             </div>
@@ -33,19 +33,17 @@
     </div>
 </section>
 
-<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!---////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 <!-- SEction2: Plants API-->
 
 <section #plantsSection class="bg-black mt-20">
-  <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6 px-32 w-full mx-auto ">
+  <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6 px-6 md:px-20 lg:px-32 w-full mx-auto ">
       @for(plant of plantsList; track plant.id){
-        <article class="bg-black flex flex-col items-center justify-between h-full overflow-hidden shadow-lg p-6 min-h-[28rem] border-t border-gold-500">
+        <article class="bg-black flex flex-col items-center justify-between h-full overflow-hidden p-6 min-h-[20rem] border-t border-gold-500">
             <img [src]="plant.image" alt="Plant image" class="w-full aspect-[4/3] object-cover rounded-lg" />
-
             <h3 class="font-montserrat text-white textSizeh6 font-semibold mt-4 text-center tracking-wide">
               {{ plant.common_name }}
             </h3>
-
             <button
               (click)="goToDetails(plant.id)"
               class="mt-4 text-white font-roboto textSizep px-6 py-2 border border-gold-500 rounded-lg hover:bg-gold-500 transition duration-200 ease-in-out cursor-pointer">

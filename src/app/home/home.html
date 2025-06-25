@@ -25,18 +25,18 @@
 <section id="about" #aboutSection class="w-full lg:pb-0 lg:h-screen bg-black">
     <div class="grid grid-cols-1 gap-16 lg:gap-0 lg:grid-cols-12">
         <div class=" col-span-1 lg:col-span-6 flex flex-col items-center justify-center order-2">
-            <h2 class="text-white font-montserrat textSizeh2 lg:textSizeh1">Shinrin-Yoku</h2>
-            <div class ="mt-16">
-                <p class="text-white font-roboto textSizep px-[17px] items-center max-w-[425px] md:max-w-[450px] lg:max-w-[600px]">
+            <h2 class="text-white font-montserrat text-center textSizeh3 md:textSizeh2 lg:textSizeh1">Shinrin-Yoku</h2>
+            <div class ="mt-16 flex flex-col items-center">
+                <p class="text-white font-roboto textSizep px-[17px] items-center max-w-[355px] md:max-w-[450px] lg:max-w-[600px]">
                     Shinrin-yoku, meaning “forest bathing” in Japanese, is a practice rooted in the Japanese philosophy of connecting deeply with nature to promote well-being. More than just a walk in the woods, it’s an immersive experience that encourages you to slow down and absorb the calming atmosphere of the forest.
                 </p>
-                <p class="text-white font-roboto mt-4 textSizep px-[17px] items-center max-w-[425px] md:max-w-[450px] lg:max-w-[625px]">
+                <p class="text-white font-roboto mt-4 textSizep px-[17px] items-center max-w-[355px] md:max-w-[450px] lg:max-w-[600px]">
                     At our plant store, we bring the essence of Shinrin-yoku into your everyday life by offering a thoughtfully curated selection of plants that transform your home or workspace into a peaceful, natural retreat. Each plant is grown and cared for with the utmost botanical expertise and attention, reflecting our deep respect for nature. Whether you’re creating a serene corner or arranging a lush green environment, our plants are chosen to inspire calm, connection, and a little bit of forest where you are.
                 </p>
             </div>
             <!--View plant desktop -->
             <a routerLink="/plants"
-                class="lg:block font-roboto textSizeh6 text-white px-22 md:px-28 lg:px-46 py-3 mt-8 border border-gold-500 rounded-lg hover:bg-gold-500 text-center inline-block">
+                class="block font-roboto textSizeh6 text-white px-16 md:px-28 lg:px-46 py-3 mt-8 border border-gold-500 rounded-lg hover:bg-gold-500 text-center">
                 View Plant Collection
             </a>
         </div>
@@ -67,83 +67,82 @@
     <!-- Left column: Heading + Form -->
     <div class="col-span-1 lg:col-span-6 flex flex-col justify-center items-center order-2 lg:order-1 px-6 lg:px-16">
       <div class="w-full max-w-[320px] md:max-w-[400px] lg:max-w-[600px]">
-        <h1 class="text-white font-montserrat textSizeh2 lg:textSizeh1 mb-6">Contact Us</h1>
-        <div class="flex flex-col items-start w-full mt-16">
-          <div class="flex justify-between items-center w-full mb-2">
-            <p class="text-white font-roboto textSizeh6">Tel: +352 337506</p>
-            <span id="feedback" class="font-roboto text-red-500 text-sm md:text-md lg:textSizep"> </span>
-          </div>
 
-     <form netlify 
-        name="contact"
-        #contactForm="ngForm" 
-        (ngSubmit)="onSubmit(contactForm)" novalidate 
-        class="w-full mt-8">
+        <h1 class="text-white font-montserrat textSizeh3 md:textSizeh2 lg:textSizeh1 mb-6">Contact Us</h1>
+        <div class="flex flex-col items-start w-full mt-16">
+            <p class="text-white font-roboto textSizeh6">Tel: +352 337506</p>
+
+          <form netlify 
+                name="contact"
+                #contactForm="ngForm" 
+                (ngSubmit)="onSubmit(contactForm)" novalidate 
+                class="w-full mt-8">
       
-        <div class="flex flex-col space-y-6">
+            <div class="flex flex-col space-y-6">
     <!-- Name Input -->
-          <input
-            type="text"
-            id="name"
-            name="name"
-            placeholder="Name"
-            required
-            [(ngModel)]="formData.name"
-            #name="ngModel"
-            class="font-roboto border-b border-white text-white placeholder:text-gray-400 text-base md:text-md lg:textSizep bg-black focus:text-white outline-none py-2"
-          />
-        <div *ngIf="name.invalid && name.touched" class="text-red-500 textSizesmall">
-            <span *ngIf="name.errors?.['required']">Field missing</span>
-        </div>
+                <div class="w-full">
+                    <input
+                        type="text"
+                        id="name"
+                        name="name"
+                        placeholder="Name"
+                        required
+                        [(ngModel)]="formData.name"
+                        #name="ngModel"
+                        class="font-roboto w-full border-b border-white text-white placeholder:text-gray-400 textSizep bg-black focus:text-white outline-none py-2"
+                    />
+                    <div *ngIf="name.invalid && name.touched" class="text-red-500 textSizesmall mt-1">
+                        <span *ngIf="name.errors?.['required']">Field missing</span>
+                    </div>
+                  </div>
 
     <!-- Email Input -->
-        <input
-          type="email"
-          id="email"
-          name="email"
-          placeholder="Email"
-          required
-          email
-          [(ngModel)]="formData.email"
-          #email="ngModel"
-          class="font-roboto border-b border-white text-white placeholder:text-gray-400 text-base md:text-md lg:textSizep bg-black focus:text-white outline-none py-2"
-        />
-        <div *ngIf="email.invalid && email.touched" class="text-red-500 textSizesmall">
-            <span *ngIf="email.errors?.['required']">Field missing</span>
-            <span *ngIf="email.errors?.['email']">Email format incorrect</span>
-        </div>
-
+                <div class="w-full">    
+                    <input
+                        type="email"
+                        id="email"
+                        name="email"
+                        placeholder="Email"
+                        required
+                        email
+                        [(ngModel)]="formData.email"
+                        #email="ngModel"
+                        class="font-roboto w-full border-b text-white placeholder:text-gray-400 textSizep bg-black focus:text-white outline-none py-2"
+                    />
+                      <div *ngIf="email.invalid && email.touched" class="text-red-500 textSizesmall mt-1">
+                          <span *ngIf="email.errors?.['required']">Field missing</span>
+                          <span *ngIf="email.errors?.['email']">Email format incorrect</span>
+                      </div>
+                </div>
     <!-- Message Textarea -->
-        <textarea
-          id="message"
-          name="message"
-          placeholder="Enter your message"
-          rows="4"
-          required
-          [(ngModel)]="formData.message"
-          #message="ngModel"
-          class="font-roboto border-b border-white placeholder:text-gray-400 text-base md:text-md lg:textSizep text-white bg-black focus:text-white outline-none py-2 resize-none">
-        </textarea>
-        <div *ngIf="message.invalid && message.touched" class="text-red-500 textSizesmall">
-            <span *ngIf="message.errors?.['required']">Field missing</span>
-        </div>
-
-    <!-- Submit Button -->
-        <input
-          type="submit"
-          value="Send"
-          class="font-roboto text-white text-base md:text-md lg:textSizeh6 px-8 py-3 border border-gold-500 rounded-lg hover:bg-gold-500 transition duration-200 cursor-pointer"
-          [disabled]="contactForm.invalid"
-        />
-
+                <div class="w-full">
+                    <textarea
+                      id="message"
+                      name="message"
+                      placeholder="Enter your message"
+                      rows="4"
+                      required
+                      [(ngModel)]="formData.message"
+                      #message="ngModel"
+                      class="font-roboto w-full border-b border-white placeholder:text-gray-400 textSizep text-white bg-black focus:text-white outline-none py-2 resize-none">
+                    </textarea>
+                      <div *ngIf="message.invalid && message.touched" class="text-red-500 textSizesmall mt-1">
+                          <span *ngIf="message.errors?.['required']">Field missing</span>
+                      </div>
+                </div>
+    <!-- Submit Button -->   
+                    <input
+                        type="submit"
+                        value="Send"
+                        class="font-roboto text-white textSizeh6 px-8 py-3 border border-gold-500 rounded-lg hover:bg-gold-500 transition duration-200 cursor-pointer"
+                        [disabled]="contactForm.invalid"
+                    />
     <!-- Success Message -->
-        <div *ngIf="submissionSuccess" class="text-white textSizep mt-2">
-          Thank you for your message!
-        </div>
-    </div>
-</form>
-
-
+                    <div *ngIf="submissionSuccess" class="text-white textSizep mt-2">
+                        Thank you for your message!
+                    </div>
+              </div>
+          </form>
         </div>
       </div>
     </div>
