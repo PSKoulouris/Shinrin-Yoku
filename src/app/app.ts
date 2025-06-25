@@ -12,7 +12,7 @@ import { FormsModule } from '@angular/forms';
   styleUrls: ['./app.css']  // note: it's 'styleUrls', plural
 })
 export class App implements OnInit {
-  protected title = 'Shinrin-yoku'; bbbb
+  protected title = 'Shinrin-yoku';
 
   constructor(private router: Router) {}
 
