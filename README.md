@@ -1,4 +1,6 @@
-#Shinrin-Yoku
+# Shinrin-Yoku
+
+![Logo](images/Logo_shirinYoku.png)
 
 Link: https://shinrin-yoku.netlify.app
 
