@@ -1,6 +1,6 @@
 # Shinrin-Yoku
 
-![Logo](images\Logo_shirinYoku.png)
+![Logo](Shinrin-yoku\dist\Shinrin-yoku\browser\Logo_shirinYoku.png)
 
 Link: https://shinrin-yoku.netlify.app
 
