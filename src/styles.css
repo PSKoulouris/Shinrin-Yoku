@@ -3,6 +3,11 @@
 
 @import "tailwindcss";
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
 @theme {
   /* Define CSS custom properties for gold palette */
   --gold-50: #fff9e6;
